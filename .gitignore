@@ -1,0 +1,9 @@
+build/
+dist/
+*.spec
+bt/
+data/icons/
+data/*.partial.json
+lcbuild-error.log
+__pycache__/
+*.pyc

@@ -1,0 +1,3100 @@
+[
+ {
+  "slug": "draw your sword",
+  "key": "drawyoursword",
+  "tier": "S+",
+  "rarity": "prismatic",
+  "categories": [
+   "ad",
+   "amp",
+   "tank"
+  ],
+  "tooltip_id": 1134,
+  "name": "Rút Kiếm Ra",
+  "description": "Trở thành cận chiến và nhận Sức Mạnh Công Kích, Máu, Tốc Độ Đánh, Hút Máu và Tốc Độ Di Chuyển (tăng theo lượng tầm đánh bạn bị mất).",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/drawyoursword_large.png",
+  "tier_score": 100.0
+ },
+ {
+  "slug": "dropbear",
+  "key": "dropbear",
+  "tier": "S+",
+  "rarity": "prismatic",
+  "categories": [
+   "amp",
+   "mechanic"
+  ],
+  "tooltip_id": 2031,
+  "name": "Thả Gấu",
+  "description": "Khi bị hạ gục, một Tibbers khổng lồ mang tất cả các nâng cấp của bạn rơi từ trên trời xuống và gây sát thương lên kẻ địch ở gần.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/drop_bear_large.png",
+  "tier_score": 100.0
+ },
+ {
+  "slug": "windspeaker's blessing",
+  "key": "windspeakersblessing",
+  "tier": "S+",
+  "rarity": "prismatic",
+  "categories": [
+   "support"
+  ],
+  "tooltip_id": 1095,
+  "name": "Phong Ngôn Chúc Phúc",
+  "description": "Khi Hồi Máu và Tạo Lá Chắn, bạn cũng tăng Giáp và Kháng Phép của mục tiêu trong 3 giây.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/windspeakersblessing_large.png",
+  "tier_score": 100.0
+ },
+ {
+  "slug": "wee woo wee woo",
+  "key": "weewooweewoo",
+  "tier": "S+",
+  "rarity": "gold",
+  "categories": [
+   "support"
+  ],
+  "tooltip_id": 1005,
+  "name": "Xe Cứu Thương Tới Đây",
+  "description": "Khi di chuyển về phía đồng minh thấp Máu, nhận Tốc Độ Di Chuyển. Hiệu ứng Hồi Máu và Tạo Lá Chắn của bạn sẽ gia tăng dựa trên mức độ thấp Máu của mục tiêu.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/weewooweewoo_large.png",
+  "tier_score": 100.0
+ },
+ {
+  "slug": "stackosaurus rex",
+  "key": "stackosaurusrex",
+  "tier": "S+",
+  "rarity": "silver",
+  "categories": [
+   "mechanic"
+  ],
+  "tooltip_id": 1204,
+  "name": "Khủng Long Cộng Dồn",
+  "description": "Khi bạn nhận Cộng Dồn vĩnh viễn cho một Kỹ Năng, nhận thêm 100% cộng dồn nữa!",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/stackosaurusrex_large.png",
+  "tier_score": 100.0
+ },
+ {
+  "slug": "spirit bomb",
+  "key": "spiritbomb",
+  "tier": "S+",
+  "rarity": "prismatic",
+  "categories": [
+   "support"
+  ],
+  "tooltip_id": 2104,
+  "name": "Tinh Linh Cầu",
+  "description": "Hồi Máu và Tạo Lá Chắn cho tướng đồng minh sẽ tích tụ một Tinh Linh Cầu. Ở cộng dồn tối đa, ném quả cầu vào đồng minh Thấp Máu nhất để hồi máu và tạo lá chắn cho họ và các đồng minh ở gần.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/spiritbomb_large.png",
+  "tier_score": 100.0
+ },
+ {
+  "slug": "hand of baron",
+  "key": "handofbaron",
+  "tier": "S+",
+  "rarity": "prismatic",
+  "categories": [
+   "amp"
+  ],
+  "tooltip_id": 1389,
+  "name": "Baron Chi Viện",
+  "description": "Nhận 25% Sức Mạnh Thích Ứng. Lính đồng minh ở gần được cường hóa mạnh mẽ.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/handofbaron_large.png",
+  "tier_score": 100.0
+ },
+ {
+  "slug": "back to basics",
+  "key": "backtobasics",
+  "tier": "S+",
+  "rarity": "prismatic",
+  "categories": [
+   "amp",
+   "tank",
+   "cd",
+   "mechanic"
+  ],
+  "tooltip_id": 1004,
+  "name": "Đơn Giản Hóa",
+  "description": "Được tăng Sát Thương Kỹ Năng, Hồi Máu, Lá Chắn, và Điểm Hồi Kỹ Năng, bù lại không thể dùng Chiêu Cuối.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/backtobasics_large.png",
+  "tier_score": 100.0
+ },
+ {
+  "slug": "sonata",
+  "key": "sonata",
+  "tier": "S+",
+  "rarity": "gold",
+  "categories": [
+   "amp",
+   "support"
+  ],
+  "tooltip_id": 1420,
+  "name": "Bản Sonata",
+  "description": "Sau mỗi 10 giây, luân phiên thi triển tự động Giai Điệu Khích Lệ và Bản Nhạc Tốc Độ như một khúc ca. Giai Điệu Khích Lệ hồi máu cho đồng minh ở gần và tỏa ra một hào quang tạo lá chắn tạm thời. Bản Nhạc Tốc Độ tỏa ra hào quang tạm thời giúp tăng thêm Tốc Độ Di Chuyển.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/sonata_large.png",
+  "tier_score": 100.0
+ },
+ {
+  "slug": "combusting interest",
+  "key": "combustinginterest",
+  "tier": "S+",
+  "rarity": "gold",
+  "categories": [
+   "ap",
+   "gold"
+  ],
+  "tooltip_id": 2128,
+  "name": "Lãi Suất Bốc Cháy",
+  "description": "Hiệu ứng thiêu đốt và sát thương theo thời gian lên tướng sẽ tạo ra vàng.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/bloodmoney2_large.png",
+  "tier_score": 100.0
+ },
+ {
+  "slug": "escape plan",
+  "key": "escapeplan",
+  "tier": "S+",
+  "rarity": "silver",
+  "categories": [
+   "tank"
+  ],
+  "tooltip_id": 1333,
+  "name": "Kế Hoạch Đào Tẩu",
+  "description": "Nhận Lá Chắn giảm dần khổng lồ, Tốc Độ Di Chuyển giảm dần và một hiệu ứng thu nhỏ giảm dần khi còn 35% Máu.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/escapeplan_large.png",
+  "tier_score": 100.0
+ },
+ {
+  "slug": "soul siphon",
+  "key": "soulsiphon",
+  "tier": "S+",
+  "rarity": "gold",
+  "categories": [
+   "crit",
+   "tank"
+  ],
+  "tooltip_id": 1077,
+  "name": "Hút Hồn",
+  "description": "Hồi máu bằng 12% sát thương gây ra bởi Đòn Chí Mạng. Nhận 25% Tỉ Lệ Chí Mạng.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/soulsiphon_large.png",
+  "tier_score": 100.0
+ },
+ {
+  "slug": "tank it or leave it",
+  "key": "tankitorleaveit",
+  "tier": "S+",
+  "rarity": "silver",
+  "categories": [
+   "crit",
+   "tank"
+  ],
+  "tooltip_id": 1080,
+  "name": "Chiến Hoặc Chuồn",
+  "description": "Bạn có thể Thủ Đòn Chí Mạng bằng Tỉ Lệ Chí Mạng của mình (tối đa 50%), giúp bạn có cơ hội giảm sát thương. Nhận 25% Tỉ Lệ Chí Mạng.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/tankitorleaveit_large.png",
+  "tier_score": 100.0
+ },
+ {
+  "slug": "homeguard",
+  "key": "homeguard",
+  "tier": "S+",
+  "rarity": "silver",
+  "categories": [
+   "amp"
+  ],
+  "tooltip_id": 1105,
+  "name": "Vệ Quân",
+  "description": "Nhận 100% Tốc Độ Di Chuyển, bị vô hiệu hóa trong 6 giây sau khi nhận sát thương.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/homeguard_large.png",
+  "tier_score": 100.0
+ },
+ {
+  "slug": "outlaw's grit",
+  "key": "outlawsgrit",
+  "tier": "S+",
+  "rarity": "gold",
+  "categories": [
+   "tank",
+   "mechanic"
+  ],
+  "tooltip_id": 1063,
+  "name": "Gan Góc Vô Pháp",
+  "description": "Sau khi sử dụng Kỹ Năng Lướt, Nhảy hoặc Dịch Chuyển, bạn sẽ nhận được 12 Giáp và Kháng Phép, tăng lên tới 5 cộng dồn.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/outlawsgrit_large.png",
+  "tier_score": 100.0
+ },
+ {
+  "slug": "stay resolute",
+  "key": "stayresolute",
+  "tier": "S+",
+  "rarity": "silver",
+  "categories": [
+   "tank"
+  ],
+  "tooltip_id": 2076,
+  "name": "Giữ Vững Quyết Tâm",
+  "description": "Khi ? gây sát thương lên tướng địch, nhận ? Giáp và Kháng Phép.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_silver.png",
+  "tier_score": 100.0
+ },
+ {
+  "slug": "critical missile",
+  "key": "criticalmissile",
+  "tier": "S+",
+  "rarity": "gold",
+  "categories": [
+   "ad",
+   "crit"
+  ],
+  "tooltip_id": 1356,
+  "name": "Tên Lửa Chí Mạng",
+  "description": "Khi bạn Chí Mạng, bắn ra hỏa tiễn gây sát thương phép. Nhận 25% Tỉ Lệ Chí Mạng.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/criticalmissile_large.png",
+  "tier_score": 100.0
+ },
+ {
+  "slug": "ultra hydra",
+  "key": "ultrahydra",
+  "tier": "S",
+  "rarity": "prismatic",
+  "categories": [
+   "mechanic"
+  ],
+  "tooltip_id": 2141,
+  "name": "Siêu Mãng Xà",
+  "description": "Nhận 1 Rìu Tiamat khi hoàn thành 1 Trang Bị Mãng Xà. NHIỆM VỤ: Nhận Rìu Mãng Xà, Mãng Xà Kích và Rìu Đại Mãng Xà. PHẦN THƯỞNG: Nhận Siêu Mãng Xà.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/ultrahydra_large.png",
+  "tier_score": 88.0
+ },
+ {
+  "slug": "icathia's fall",
+  "key": "icathiasfall",
+  "tier": "S",
+  "rarity": "prismatic",
+  "categories": [
+   "tank",
+   "new"
+  ],
+  "tooltip_id": 1361,
+  "name": "Sự Sụp Đổ Của Icathia",
+  "description": "Ngay lập tức: Nhận 1 Tàn Tích Của Bami. NHIỆM VỤ: Sở hữu Khiên Thái Dương và Áo Choàng Hắc Quang. PHẦN THƯỞNG: Các Trang Bị này sẽ kết hợp lại thành Hiến Tế Hư Không.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/quest_voidimmolation_large.png",
+  "tier_score": 88.0
+ },
+ {
+  "slug": "high roller",
+  "key": "highroller",
+  "tier": "S",
+  "rarity": "prismatic",
+  "categories": [
+   "gold"
+  ],
+  "tooltip_id": 2095,
+  "name": "Tay Bạc",
+  "description": "Kẻ địch ở gần có tỉ lệ rơi ra Gói Trang Bị Chỉ Số khi tử trận.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/highroller_large.png",
+  "tier_score": 88.0
+ },
+ {
+  "slug": "mad scientist",
+  "key": "madscientist",
+  "tier": "S",
+  "rarity": "prismatic",
+  "categories": [
+   "tank",
+   "cd",
+   "mechanic"
+  ],
+  "tooltip_id": 1053,
+  "name": "Bác Học Điên",
+  "description": "Sau mỗi lần Hồi Sinh, bạn hóa lớn (nhận thêm Sức Mạnh Thích Ứng và Máu) hoặc hóa nhỏ (nhận thêm Điểm Hồi Kỹ Năng và Tốc Độ Di Chuyển).",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/madscientist_large.png",
+  "tier_score": 88.0
+ },
+ {
+  "slug": "infernal conduit",
+  "key": "infernalconduit",
+  "tier": "S",
+  "rarity": "prismatic",
+  "categories": [
+   "ap",
+   "amp",
+   "cd"
+  ],
+  "tooltip_id": 1045,
+  "name": "Hỏa Ngục Dẫn Truyền",
+  "description": "Kỹ Năng của bạn đặt cộng dồn Thiêu Đốt, gây sát thương theo thời gian. Hiệu ứng Thiêu Đốt của bạn sẽ giảm hồi chiêu cho các Kỹ Năng Cơ Bản.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/infernalconduit_large.png",
+  "tier_score": 88.0
+ },
+ {
+  "slug": "dual wield",
+  "key": "dualwield",
+  "tier": "S",
+  "rarity": "prismatic",
+  "categories": [
+   "ad",
+   "amp"
+  ],
+  "tooltip_id": 1225,
+  "name": "Vũ Khí Hạng Nhẹ",
+  "description": "Đòn đánh bắn ra một tia đạn gây các hiệu ứng Khi Đánh Trúng với sức mạnh bị giảm bớt. Nhận tổng cộng 10% Tốc Độ Đánh",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/dualwield_large.png",
+  "tier_score": 88.0
+ },
+ {
+  "slug": "giant slayer",
+  "key": "giantslayer",
+  "tier": "S",
+  "rarity": "prismatic",
+  "categories": [
+   "amp"
+  ],
+  "tooltip_id": 1195,
+  "name": "Diệt Khổng Lồ",
+  "description": "Hóa tí hon, nhận Tốc Độ Di Chuyển và gây thêm sát thương lên tướng dựa trên sự chênh lệch về kích thước giữa bạn và mục tiêu.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/giantslayer_large.png",
+  "tier_score": 88.0
+ },
+ {
+  "slug": "king me",
+  "key": "kingme",
+  "tier": "S",
+  "rarity": "prismatic",
+  "categories": [
+   "gold"
+  ],
+  "tooltip_id": 1337,
+  "name": "Lên Làm Vua",
+  "description": "Lần đầu bạn đi cổng dịch chuyển phe địch khi đang mang Trang Bị Huyền Thoại, bạn sẽ được phong làm Vua, đồng thời được nâng cấp trang bị và nhận thêm một Nâng Cấp Kim Cương.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/kingme_large.png",
+  "tier_score": 88.0
+ },
+ {
+  "slug": "clown college",
+  "key": "clowncollege",
+  "tier": "S",
+  "rarity": "prismatic",
+  "categories": [
+   "ap",
+   "amp",
+   "support",
+   "new"
+  ],
+  "tooltip_id": 1310,
+  "name": "Học Thuật Làm Hề",
+  "description": "Nhận được Phép Bổ Trợ Lừa Gạt. Nhận được Nội Tại Đâm Lén. Khi bạn hy sinh, tạo một hộp phát nổ gây sát thương chuẩn lớn và làm kẻ địch xung quanh Hoảng Sợ.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/clowncollege_large.png",
+  "tier_score": 88.0
+ },
+ {
+  "slug": "circle of death",
+  "key": "circleofdeath",
+  "tier": "S",
+  "rarity": "prismatic",
+  "categories": [
+   "amp",
+   "support"
+  ],
+  "tooltip_id": 1015,
+  "name": "Vòng Tròn Tử Thần",
+  "description": "Lượng Hồi Máu và Hồi Phục cũng sẽ gây sát thương phép lên tướng địch gần nhất.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/circleofdeath_large.png",
+  "tier_score": 88.0
+ },
+ {
+  "slug": "omni soul",
+  "key": "omnisoul",
+  "tier": "S",
+  "rarity": "prismatic",
+  "categories": [
+   "mechanic"
+  ],
+  "tooltip_id": 1062,
+  "name": "Linh Hồn Toàn Năng",
+  "description": "Nhận 3 Linh Hồn Rồng ngẫu nhiên.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/omnisoul_large.png",
+  "tier_score": 88.0
+ },
+ {
+  "slug": "infinite recursion",
+  "key": "infiniterecursion",
+  "tier": "S",
+  "rarity": "prismatic",
+  "categories": [
+   "cd"
+  ],
+  "tooltip_id": 1388,
+  "name": "Đệ Quy Vô Hạn",
+  "description": "Nhận 60 Điểm Hồi Kỹ Năng, cộng thêm 3 Điểm Hồi Kỹ Năng mỗi khi tham gia hạ gục.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/infiniterecursion_large.png",
+  "tier_score": 88.0
+ },
+ {
+  "slug": "swift and safe",
+  "key": "swiftandsafe",
+  "tier": "S",
+  "rarity": "silver",
+  "categories": [
+   "tank",
+   "support"
+  ],
+  "tooltip_id": 1315,
+  "name": "Nhanh & An Toàn",
+  "description": "Nhận 1 Lá Chắn sau khi Lướt Đi hoặc Dịch Chuyển.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/swiftandsafe_large.png",
+  "tier_score": 88.0
+ },
+ {
+  "slug": "bonk!",
+  "key": "bonk",
+  "tier": "S",
+  "rarity": "gold",
+  "categories": [
+   "ad",
+   "amp"
+  ],
+  "tooltip_id": 2111,
+  "name": "BONK!",
+  "description": "Các Đòn Đánh và Kỹ Năng được cường hóa bởi ? sẽ gây thêm sát thương lên mục tiêu và những kẻ địch xung quanh.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/bonk_large.png",
+  "tier_score": 88.0
+ },
+ {
+  "slug": "from beginning to end",
+  "key": "frombeginningtoend",
+  "tier": "S",
+  "rarity": "gold",
+  "categories": [
+   "amp",
+   "gold"
+  ],
+  "tooltip_id": 1038,
+  "name": "Từ Đầu Chí Cuối",
+  "description": "Nhận Ngọc Siêu Cấp Đòn Phủ Đầu và Thu Thập Hắc Ám.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/frombeginningtoend_large.png",
+  "tier_score": 88.0
+ },
+ {
+  "slug": "erosion",
+  "key": "erosion",
+  "tier": "S",
+  "rarity": "silver",
+  "categories": [
+   "amp",
+   "mechanic"
+  ],
+  "tooltip_id": 1028,
+  "name": "Xói Mòn",
+  "description": "Gây sát thương lên kẻ địch sẽ cho 1 cộng dồn giảm Giáp và Kháng Phép trong 4 giây.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/erosion_large.png",
+  "tier_score": 88.0
+ },
+ {
+  "slug": "heavy hitter",
+  "key": "heavyhitter",
+  "tier": "S",
+  "rarity": "silver",
+  "categories": [
+   "ad",
+   "tank"
+  ],
+  "tooltip_id": 1181,
+  "name": "Đánh Nhừ Tử",
+  "description": "Đòn đánh sẽ gây thêm sát thương vật lý bằng 3.5% Máu tối đa của bản thân.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/heavyhitter_large.png",
+  "tier_score": 88.0
+ },
+ {
+  "slug": "warlock juicebox",
+  "key": "warlockjuicebox",
+  "tier": "S",
+  "rarity": "gold",
+  "categories": [
+   "tank"
+  ],
+  "tooltip_id": 2132,
+  "name": "Hộp Nước Ma Đạo Sĩ",
+  "description": "Nhận ? Hút Máu Toàn Phần.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/warlockjuicebox_large.png",
+  "tier_score": 88.0
+ },
+ {
+  "slug": "shadow runner",
+  "key": "shadowrunner",
+  "tier": "S",
+  "rarity": "silver",
+  "categories": [
+   "mechanic"
+  ],
+  "tooltip_id": 1073,
+  "name": "Bóng Đen Tốc Độ",
+  "description": "Sau khi sử dụng Kỹ Năng Lướt, Nhảy hoặc Dịch Chuyển hay thoát khỏi trạng thái Tàng Hình, nhận Tốc Độ Di Chuyển.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/shadowrunner_large.png",
+  "tier_score": 88.0
+ },
+ {
+  "slug": "don't blink",
+  "key": "dontblink",
+  "tier": "S",
+  "rarity": "silver",
+  "categories": [
+   "amp"
+  ],
+  "tooltip_id": 1026,
+  "name": "Đừng Chớp Mắt",
+  "description": "Tăng 1% sát thương gây ra với mỗi 10 Tốc Độ Di Chuyển bạn có nhiều hơn kẻ địch.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/dontblink_large.png",
+  "tier_score": 88.0
+ },
+ {
+  "slug": "phenomenal evil",
+  "key": "phenomenalevil",
+  "tier": "S",
+  "rarity": "gold",
+  "categories": [
+   "ap"
+  ],
+  "tooltip_id": 1390,
+  "name": "Quỷ Quyệt Vô Thường",
+  "description": "Nhận vĩnh viễn 1 Sức Mạnh Phép Thuật khi đánh trúng tướng địch bằng Kỹ Năng. Nếu được chọn làm Nâng Cấp thứ hai của bạn, bắt đầu với 40 Sức Mạnh Phép Thuật.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/aram_phenomenalevil_large.png",
+  "tier_score": 88.0
+ },
+ {
+  "slug": "steel your heart",
+  "key": "steelyourheart",
+  "tier": "S",
+  "rarity": "gold",
+  "categories": [
+   "tank"
+  ],
+  "tooltip_id": 1152,
+  "name": "Trái Tim Sắt Đá",
+  "description": "NHIỆM VỤ: Sở hữu Trái Tim Khổng Thần với 300 cộng dồn trở lên. PHẦN THƯỞNG: Số cộng dồn Trái Tim Khổng Thần được nhân lên 3 lần.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/quest_steelyourheart_large.png",
+  "tier_score": 88.0
+ },
+ {
+  "slug": "tank engine",
+  "key": "tankengine",
+  "tier": "S",
+  "rarity": "gold",
+  "categories": [
+   "tank"
+  ],
+  "tooltip_id": 1353,
+  "name": "Động Cơ Đỡ Đòn",
+  "description": "Khi tham gia hạ gục, nhận 1 cộng dồn giúp tăng kích thước và Máu tối đa của bạn. Mất cộng dồn khi hy sinh.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/tank_engine_large.png",
+  "tier_score": 88.0
+ },
+ {
+  "slug": "spin to win",
+  "key": "spintowin",
+  "tier": "S",
+  "rarity": "silver",
+  "categories": [
+   "amp",
+   "cd"
+  ],
+  "tooltip_id": 1214,
+  "name": "Xoay Là Thắng",
+  "description": "Các Kỹ Năng xoay được tăng 30 Điểm Hồi Kỹ Năng và gây thêm ? sát thương, tăng lên ? cho Chiêu Cuối",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/spintowin_large.png",
+  "tier_score": 88.0
+ },
+ {
+  "slug": "blunt force",
+  "key": "bluntforce",
+  "tier": "S",
+  "rarity": "silver",
+  "categories": [
+   "ad",
+   "amp"
+  ],
+  "tooltip_id": 1007,
+  "name": "Vũ Lực",
+  "description": "Nhận 20% Sức Mạnh Công Kích.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/bluntforce_large.png",
+  "tier_score": 88.0
+ },
+ {
+  "slug": "scopier weapons",
+  "key": "scopierweapons",
+  "tier": "S",
+  "rarity": "gold",
+  "categories": [
+   "mechanic"
+  ],
+  "tooltip_id": 1071,
+  "name": "Lắp Kính Nhắm Cỡ Lớn",
+  "description": "Tăng ? Tầm Đánh.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/scopierweapons_large.png",
+  "tier_score": 88.0
+ },
+ {
+  "slug": "big brain",
+  "key": "bigbrain",
+  "tier": "S",
+  "rarity": "gold",
+  "categories": [
+   "ap",
+   "tank"
+  ],
+  "tooltip_id": 1180,
+  "name": "Siêu Trí Tuệ",
+  "description": "Nhận 3 Lá Chắn với mỗi 1 Sức Mạnh Phép Thuật. Đặt lại khi bị hạ gục hoặc sau 70 giây kể từ khi cạn kiệt.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/bigbrain_large.png",
+  "tier_score": 88.0
+ },
+ {
+  "slug": "don't change the channel",
+  "key": "dontchangethechannel",
+  "tier": "S",
+  "rarity": "silver",
+  "categories": [
+   "tank"
+  ],
+  "tooltip_id": 2131,
+  "name": "Đừng Chuyển Kênh",
+  "description": "Nhận một Lá Chắn cho mỗi giây bạn Vận Sức.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/dontchangethechannel_large.png",
+  "tier_score": 88.0
+ },
+ {
+  "slug": "vulnerability",
+  "key": "vulnerability",
+  "tier": "S",
+  "rarity": "gold",
+  "categories": [
+   "crit",
+   "amp"
+  ],
+  "tooltip_id": 1092,
+  "name": "Yếu Điểm",
+  "description": "Trang Bị và hiệu ứng sát thương theo thời gian của bạn có thể Chí Mạng. Nhận 25% Tỉ Lệ Chí Mạng.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/vulnerability_large.png",
+  "tier_score": 88.0
+ },
+ {
+  "slug": "shrink engine",
+  "key": "shrinkengine",
+  "tier": "S",
+  "rarity": "gold",
+  "categories": [
+   "tank",
+   "cd"
+  ],
+  "tooltip_id": 1373,
+  "name": "Động Cơ Thu Nhỏ",
+  "description": "Tham gia hạ gục sẽ khiến bạn giảm kích thước, nhận thêm Điểm Hồi Kỹ Năng và Tốc Độ Di Chuyển. Mất đi 65% cộng dồn khi bị hạ gục.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/shrinkengine_large.png",
+  "tier_score": 88.0
+ },
+ {
+  "slug": "deft",
+  "key": "deft",
+  "tier": "S",
+  "rarity": "silver",
+  "categories": [
+   "ad"
+  ],
+  "tooltip_id": 1022,
+  "name": "Khéo Léo",
+  "description": "Nhận 60% Tốc Độ Đánh.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/deft_large.png",
+  "tier_score": 88.0
+ },
+ {
+  "slug": "sonic boom",
+  "key": "sonicboom",
+  "tier": "S",
+  "rarity": "silver",
+  "categories": [
+   "amp",
+   "support"
+  ],
+  "tooltip_id": 1076,
+  "name": "Vụ Nổ Siêu Thanh",
+  "description": "Cường Hóa, Hồi Máu hoặc Tạo Lá Chắn cho đồng minh sẽ gây sát thương và Làm Chậm những kẻ địch xung quanh họ.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/sonicboom_large.png",
+  "tier_score": 88.0
+ },
+ {
+  "slug": "pressure cooker",
+  "key": "pressurecooker",
+  "tier": "S",
+  "rarity": "gold",
+  "categories": [
+   "amp",
+   "tank"
+  ],
+  "tooltip_id": 2102,
+  "name": "Lò Luyện Áp Suất",
+  "description": "Mỗi giây, tạo hiệu ứng Thiêu Đốt cộng dồn lên các tướng địch ở gần, tăng theo Máu Tối Đa của bạn. NHIỆM VỤ: Gây sát thương Thiêu Đốt lên Tướng địch. PHẦN THƯỞNG: Kích thước và sát thương tăng lên với mỗi Cấp Nhiệm Vụ.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/questpressurecooker_large.png",
+  "tier_score": 88.0
+ },
+ {
+  "slug": "donation",
+  "key": "donation",
+  "tier": "S",
+  "rarity": "gold",
+  "categories": [
+   "gold",
+   "mechanic"
+  ],
+  "tooltip_id": 1384,
+  "name": "Quyên Góp",
+  "description": "Nhận 1750 Vàng. Đừng hỏi gì cả.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/donation_large.png",
+  "tier_score": 88.0
+ },
+ {
+  "slug": "upgrade ravenous hydra",
+  "key": "upgraderavenoushydra",
+  "tier": "S",
+  "rarity": "gold",
+  "categories": [
+   "ap",
+   "gold"
+  ],
+  "tooltip_id": 2140,
+  "name": "Nâng Cấp Rìu Mãng Xà",
+  "description": "Các kỹ năng của bạn khi trúng đích sẽ kích hoạt Chém Lan lên kẻ địch. Tăng Hút Máu của Rìu Mãng Xà lên ? Nhận 500 Vàng.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/upgradesheen_large.png",
+  "tier_score": 88.0
+ },
+ {
+  "slug": "transmute: prismatic",
+  "key": "transmuteprismatic",
+  "tier": "S",
+  "rarity": "gold",
+  "categories": [
+   "gold"
+  ],
+  "tooltip_id": 1238,
+  "name": "Chuyển Đổi: Kim Cương",
+  "description": "Nhận Nâng Cấp Kim Cương ngẫu nhiên.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/transmuteprismatic_large.png",
+  "tier_score": 88.0
+ },
+ {
+  "slug": "goliath",
+  "key": "goliath",
+  "tier": "A",
+  "rarity": "prismatic",
+  "categories": [
+   "amp",
+   "tank"
+  ],
+  "tooltip_id": 1041,
+  "name": "Khổng Lồ Hóa",
+  "description": "Hóa lớn, nhận 35% Máu và 15% Sức Mạnh Thích Ứng.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/goliath_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "wooglet's witchcap",
+  "key": "woogletswitchcap",
+  "tier": "A",
+  "rarity": "prismatic",
+  "categories": [
+   "ap"
+  ],
+  "tooltip_id": 1156,
+  "name": "Mũ Phù Thủy Wooglet",
+  "description": "Lập tức nhận 1 Gậy Quá Khổ. NHIỆM VỤ: Sở hữu Mũ Phù Thủy Rabadon và Đồng Hồ Cát Zhonya. PHẦN THƯỞNG: Nhận Mũ Phù Thủy Wooglet.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/quest_woogletswitchcap_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "eureka",
+  "key": "eureka",
+  "tier": "A",
+  "rarity": "prismatic",
+  "categories": [
+   "ap",
+   "cd"
+  ],
+  "tooltip_id": 1030,
+  "name": "Eureka",
+  "description": "Nhận Điểm Hồi Kỹ Năng tương đương 30% Sức Mạnh Phép Thuật.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/eureka_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "tap dancer",
+  "key": "tapdancer",
+  "tier": "A",
+  "rarity": "prismatic",
+  "categories": [
+   "ad",
+   "mechanic"
+  ],
+  "tooltip_id": 1081,
+  "name": "Vũ Công Thiết Hài",
+  "description": "Đòn Đánh của bạn tăng Tốc Độ Di Chuyển. Nhận Tốc Độ Đánh dựa trên Tốc Độ Di Chuyển của bạn.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/tapdancer_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "final form",
+  "key": "finalform",
+  "tier": "A",
+  "rarity": "prismatic",
+  "categories": [
+   "amp",
+   "tank",
+   "mechanic"
+  ],
+  "tooltip_id": 1344,
+  "name": "Bản Thể Tối Thượng",
+  "description": "Sau khi thi triển Chiêu Cuối, nhận Lá Chắn Theo Máu Tối Đa, Hút Máu Toàn Phần và Tốc Độ Di Chuyển trong 10 giây.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/finalform_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "forged by the master",
+  "key": "forgedbythemaster",
+  "tier": "A",
+  "rarity": "silver",
+  "categories": [
+   "amp"
+  ],
+  "tooltip_id": 2127,
+  "name": "Tôi Luyện Từ Cao Thủ",
+  "description": "Tăng sát thương từ Trang Bị và Nâng Cấp của bạn thêm ?.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/forgedbythemaster_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "zealot",
+  "key": "zealot",
+  "tier": "A",
+  "rarity": "silver",
+  "categories": [
+   "ad",
+   "crit"
+  ],
+  "tooltip_id": 2009,
+  "name": "Cuồng Tín",
+  "description": "Nhận ? Tỉ Lệ Chí Mạng và ? Tốc Độ Đánh.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/zealot_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "escapade",
+  "key": "escapade",
+  "tier": "A",
+  "rarity": "silver",
+  "categories": [
+   "ad",
+   "amp",
+   "mechanic"
+  ],
+  "tooltip_id": 1206,
+  "name": "Chuyển Hoá SMPT-SMCK",
+  "description": "Chuyển hóa Sức Mạnh Phép Thuật thành Sức Mạnh Công Kích Cộng Thêm. Nhận 15% Sức Mạnh Công Kích.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/escapade_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "en passant",
+  "key": "enpassant",
+  "tier": "A",
+  "rarity": "prismatic",
+  "categories": [
+   "amp",
+   "mechanic"
+  ],
+  "tooltip_id": 2098,
+  "name": "Bắt Tốt Qua Đường",
+  "description": "Định kỳ xác định Điểm Yếu trên tướng địch. Đánh trúng Điểm Yếu bằng Đòn Đánh hoặc Kỹ Năng sẽ gây sát thương chuẩn theo phần trăm Máu tối đa, hồi Máu và tăng Tốc Độ Di Chuyển. Những hiệu ứng này có thể cộng dồn.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/dashing_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "ok boomerang",
+  "key": "okboomerang",
+  "tier": "A",
+  "rarity": "gold",
+  "categories": [
+   "amp",
+   "mechanic"
+  ],
+  "tooltip_id": 1061,
+  "name": "Boomerang OK",
+  "description": "Tự Động phóng ra 1 boomerang vào 1 tướng địch gần bên sau mỗi ? giây.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/okboomerang_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "ocean soul",
+  "key": "oceansoul",
+  "tier": "A",
+  "rarity": "silver",
+  "categories": [
+   "tank",
+   "mechanic"
+  ],
+  "tooltip_id": 1060,
+  "name": "Linh Hồn Rồng Nước",
+  "description": "Nhận Linh Hồn Rồng Nước, cho lượng hồi phục Máu và Năng Lượng lớn sau khi gây sát thương lên kẻ địch.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/oceansoul_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "ethereal weapon",
+  "key": "etherealweapon",
+  "tier": "A",
+  "rarity": "gold",
+  "categories": [
+   "mechanic"
+  ],
+  "tooltip_id": 1029,
+  "name": "Vũ Khí Siêu Nhiên",
+  "description": "Kỹ năng của bạn sẽ gây các hiệu ứng Khi Đánh Trúng. 1 giây Hồi Chiêu trên mỗi mục tiêu.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/etherealweapon_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "scopiest weapons",
+  "key": "scopiestweapons",
+  "tier": "A",
+  "rarity": "prismatic",
+  "categories": [
+   "mechanic"
+  ],
+  "tooltip_id": 1115,
+  "name": "Lắp Kính Nhắm Cỡ Đại",
+  "description": "Tăng ? Tầm Đánh.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/scopiestweapons_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "goldrend",
+  "key": "goldrend",
+  "tier": "A",
+  "rarity": "prismatic",
+  "categories": [
+   "amp",
+   "gold"
+  ],
+  "tooltip_id": 1335,
+  "name": "Bào Vàng",
+  "description": "Gây sát thương lên tướng bằng Đòn Đánh hoặc Kỹ Năng sẽ gây thêm sát thương phép, đồng thời cho bạn Vàng và Tốc Độ Di Chuyển.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/goldrend_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "stats on stats!",
+  "key": "statsonstats",
+  "tier": "A",
+  "rarity": "gold",
+  "categories": [
+   "gold",
+   "mechanic"
+  ],
+  "tooltip_id": 1403,
+  "name": "Bội Thu Chỉ Số!",
+  "description": "Nhận 3 Gói Trang Bị Chỉ Số, có xác suất cao hơn để nhận Gói Trang Bị Vàng và Kim Cương!",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/statsonstats_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "echo cast",
+  "key": "echocast",
+  "tier": "A",
+  "rarity": "prismatic",
+  "categories": [
+   "mechanic"
+  ],
+  "tooltip_id": 2062,
+  "name": "Thi Triển Dội Âm",
+  "description": "Kích hoạt ? sẽ phóng ra một bản sao về phía con trỏ chuột của bạn và tái kích hoạt nó.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_prismatic.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "upgrade infinity edge",
+  "key": "upgradeinfinityedge",
+  "tier": "A",
+  "rarity": "gold",
+  "categories": [
+   "crit",
+   "amp",
+   "gold"
+  ],
+  "tooltip_id": 1336,
+  "name": "Nâng Cấp Vô Cực Kiếm",
+  "description": "Nhận 500 Vàng. Khi sở hữu Vô Cực Kiếm, Tỉ Lệ Chí Mạng của bạn sẽ cho Sát Thương Chí Mạng ngẫu nhiên mỗi Đòn Đánh.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/upgradeie_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "from downtown",
+  "key": "fromdowntown",
+  "tier": "A",
+  "rarity": "gold",
+  "categories": [
+   "ap",
+   "mechanic"
+  ],
+  "tooltip_id": 2103,
+  "name": "Quà Yêu Thương Từ Jinx",
+  "description": "NHIỆM VỤ: Bắn Tỉa ? tướng địch bằng kỹ năng PHẦN THƯỞNG: Gọi một thiên thạch xuống các tướng địch đã bị Bắn Tỉa, gây Sát Thương Phép lên một khu vực xung quanh họ",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/questbangbang_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "first-aid kit",
+  "key": "firstaidkit",
+  "tier": "A",
+  "rarity": "silver",
+  "categories": [
+   "support"
+  ],
+  "tooltip_id": 1037,
+  "name": "Túi Cứu Thương",
+  "description": "Tăng 20% Sức Mạnh Lá Chắn và Hồi Máu.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/firstaidkit_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "minionmancer",
+  "key": "minionmancer",
+  "tier": "A",
+  "rarity": "gold",
+  "categories": [
+   "mechanic"
+  ],
+  "tooltip_id": 1104,
+  "name": "Bậc Thầy Gọi Đệ",
+  "description": "Các đơn vị triệu hồi của bạn được tăng 40% kích cỡ, máu và sát thương.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/minionmancer_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "critical rhythm",
+  "key": "criticalrhythm",
+  "tier": "A",
+  "rarity": "gold",
+  "categories": [
+   "ad",
+   "crit"
+  ],
+  "tooltip_id": 1328,
+  "name": "Nhịp Điệu Chí Mạng",
+  "description": "Đòn Đánh thường của bạn sẽ cộng dồn Tốc Độ Đánh khi Chí Mạng. Nhận 25% Tỉ Lệ Chí Mạng.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/criticalrhythm_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "urf's champion",
+  "key": "urfschampion",
+  "tier": "A",
+  "rarity": "prismatic",
+  "categories": [
+   "gold"
+  ],
+  "tooltip_id": 1154,
+  "name": "Nhà Vô Địch URF",
+  "description": "NHIỆM VỤ: Tham gia hạ gục ? lần. PHẦN THƯỞNG: Xẻng Vàng",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/quest_urfschampion_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "celestial body",
+  "key": "celestialbody",
+  "tier": "A",
+  "rarity": "gold",
+  "categories": [
+   "tank"
+  ],
+  "tooltip_id": 1013,
+  "name": "Cơ Thể Thượng Nhân",
+  "description": "Nhận thêm 1500 Máu, nhưng bạn bị giảm 10% sát thương gây ra.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/celestialbody_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "upgrade immolate",
+  "key": "upgradeimmolate",
+  "tier": "A",
+  "rarity": "silver",
+  "categories": [
+   "amp",
+   "tank",
+   "gold"
+  ],
+  "tooltip_id": 1319,
+  "name": "Nâng Cấp Hiến Tế",
+  "description": "Áo Choàng Hắc Quang và Khiên Thái Dương sẽ cho 12 Vàng với mỗi mục tiêu bị ảnh hưởng bởi Hiến Tế. Nhận 250 Vàng.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/upgradeimmolate_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "mystic punch",
+  "key": "mysticpunch",
+  "tier": "A",
+  "rarity": "prismatic",
+  "categories": [
+   "cd"
+  ],
+  "tooltip_id": 1058,
+  "name": "Cú Đấm Thần Bí",
+  "description": "Khi Đánh Trúng giảm hồi chiêu kỹ năng của bạn đi 1.25 giây .",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/mysticpunch_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "lil' extra help",
+  "key": "lilextrahelp",
+  "tier": "A",
+  "rarity": "gold",
+  "categories": [
+   "ad"
+  ],
+  "tooltip_id": 2096,
+  "name": "Một Chút Trợ Giúp",
+  "description": "Tăng ? Tầm Đánh và ? Tốc Độ Đánh trong thời gian tác dụng của ?.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_gold.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "mind to matter",
+  "key": "mindtomatter",
+  "tier": "A",
+  "rarity": "silver",
+  "categories": [
+   "ap",
+   "tank"
+  ],
+  "tooltip_id": 1056,
+  "name": "Ý Thức Thắng Vật Chất",
+  "description": "Tăng Máu tối đa bằng một nửa Năng Lượng của bạn.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/mindtomatter_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "with haste",
+  "key": "withhaste",
+  "tier": "A",
+  "rarity": "gold",
+  "categories": [
+   "cd"
+  ],
+  "tooltip_id": 1098,
+  "name": "Bứt Tốc",
+  "description": "Nhận Tốc Độ Di Chuyển bằng 70% Điểm Hồi Kỹ Năng của bạn.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/withhaste_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "terrain'd",
+  "key": "terraind",
+  "tier": "A",
+  "rarity": "gold",
+  "categories": [
+   "amp",
+   "mechanic"
+  ],
+  "tooltip_id": 2129,
+  "name": "Kiến Tạo Địa Hình",
+  "description": "? của bạn gây sát thương lên vùng xung quanh nó.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/lightningstrikes_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "leg day",
+  "key": "legday",
+  "tier": "A",
+  "rarity": "silver",
+  "categories": [
+   "tank"
+  ],
+  "tooltip_id": 1305,
+  "name": "Ngày Tập Chân",
+  "description": "Nhận 50 Tốc Độ Di Chuyển và 40% Kháng Làm Chậm.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/legday_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "empyrean promise",
+  "key": "empyreanpromise",
+  "tier": "A",
+  "rarity": "prismatic",
+  "categories": [
+   "tank",
+   "support",
+   "mechanic"
+  ],
+  "tooltip_id": 1331,
+  "name": "Nhẫn Hỏa Ảnh",
+  "description": "Nhận 15% Sức Mạnh Hồi Máu & Lá Chắn. Nhận Phép Bổ Trợ Nhẫn Hỏa Ảnh. Vệ Binh Dịch chuyển đến một đồng đội và trao ? Lá Chắn trong 3 giây khi tới nơi.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/empyreampromise_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "light 'em up!",
+  "key": "lightemup",
+  "tier": "A",
+  "rarity": "silver",
+  "categories": [
+   "ad",
+   "amp"
+  ],
+  "tooltip_id": 1051,
+  "name": "Nếm Mùi Đau Thương!",
+  "description": "Mỗi Đòn Đánh thứ tư bắn ra 4 hỏa tiễn gây sát thương phép Khi Đánh Trúng.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/lightemup_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "recursion",
+  "key": "recursion",
+  "tier": "A",
+  "rarity": "gold",
+  "categories": [
+   "cd"
+  ],
+  "tooltip_id": 1068,
+  "name": "Đệ Quy",
+  "description": "Nhận 60 Điểm Hồi Kỹ Năng.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/recursion_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "goredrink",
+  "key": "goredrink",
+  "tier": "A",
+  "rarity": "silver",
+  "categories": [
+   "tank"
+  ],
+  "tooltip_id": 1138,
+  "name": "Chùy Hấp Huyết",
+  "description": "Tăng 15% Hút Máu Toàn Phần.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/goredrink_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "shark bait",
+  "key": "sharkbait",
+  "tier": "A",
+  "rarity": "gold",
+  "categories": [
+   "mechanic"
+  ],
+  "tooltip_id": 2032,
+  "name": "Mồi Cá Mập",
+  "description": "Vài giây sau khi bị hạ gục, một con cá mập sẽ chồm lên cắn tất cả kẻ địch ở gần. Bạn có thể di chuyển sau khi bị hạ gục để nhắm đòn tấn công của cá mập.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/fishbait_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "tooth fairy",
+  "key": "toothfairy",
+  "tier": "A",
+  "rarity": "gold",
+  "categories": [
+   "amp"
+  ],
+  "tooltip_id": 2083,
+  "name": "Tiên Răng",
+  "description": "Sốc sát thương kẻ địch sẽ làm rớt ra Răng. Nhặt Răng sẽ cho bạn vĩnh viễn Sát Lực và Xuyên Kháng Phép.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/questburstingteeth_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "dawnbringer's resolve",
+  "key": "dawnbringersresolve",
+  "tier": "A",
+  "rarity": "gold",
+  "categories": [
+   "tank"
+  ],
+  "tooltip_id": 1020,
+  "name": "Ý Chí Thần Sứ",
+  "description": "Khi còn dưới 50% Máu, hồi lại 30% Máu tối đa trong 3 giây. Làm mới khi tử trận hoặc sau mỗi 45 giây.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/dawnbringersresolve_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "all for you",
+  "key": "allforyou",
+  "tier": "A",
+  "rarity": "gold",
+  "categories": [
+   "tank",
+   "support"
+  ],
+  "tooltip_id": 1141,
+  "name": "Dành Hết Cho Bạn",
+  "description": "Khả năng Hồi Máu và Tạo Lá Chắn của bạn sẽ mạnh hơn khi sử dụng lên đồng đội.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/allforyou_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "protein shake",
+  "key": "proteinshake",
+  "tier": "A",
+  "rarity": "prismatic",
+  "categories": [
+   "tank",
+   "support"
+  ],
+  "tooltip_id": 1324,
+  "name": "Tăng Cường Thể Lực",
+  "description": "Nhận ?% Sức Mạnh Lá Chắn và Hồi Máu dựa trên Giáp và Kháng Phép cộng thêm.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/proteinshake_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "overflow",
+  "key": "overflow",
+  "tier": "A",
+  "rarity": "gold",
+  "categories": [
+   "ad",
+   "ap",
+   "amp",
+   "tank"
+  ],
+  "tooltip_id": 1311,
+  "name": "Tràn Trề",
+  "description": "Năng Lượng tiêu hao của bạn tăng gấp đôi. Hồi Máu, Lá Chắn và sát thương từ Kỹ Năng của bạn gia tăng dựa trên Năng Lượng tối đa.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/overflow_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "hellbent",
+  "key": "hellbent",
+  "tier": "A",
+  "rarity": "prismatic",
+  "categories": [
+   "tank",
+   "mechanic"
+  ],
+  "tooltip_id": 2107,
+  "name": "Quyết Tâm Bất Diệt",
+  "description": "Gây sát thương lên tướng địch bằng Đòn Đánh hoặc Kỹ Năng sẽ cho cộng dồn. Ở cộng dồn tối đa, bạn sẽ được hồi sinh cường hóa khi bị hạ gục.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/hellbent_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "upgrade sheen",
+  "key": "upgradesheen",
+  "tier": "A",
+  "rarity": "gold",
+  "categories": [
+   "amp",
+   "gold"
+  ],
+  "tooltip_id": 1996,
+  "name": "Nâng Cấp Thủy Kiếm",
+  "description": "Các hiệu ứng Kiếm Phép của bạn gây thêm sát thương và hồi máu theo phần trăm Máu của mục tiêu. Ngoài ra, nhận thêm 250 Vàng.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/upgradesheen_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "fan the hammer",
+  "key": "fanthehammer",
+  "tier": "A",
+  "rarity": "prismatic",
+  "categories": [
+   "ad",
+   "amp"
+  ],
+  "tooltip_id": 1220,
+  "name": "Xả Đạn Hàng Loạt",
+  "description": "Đòn Đánh lên tướng địch sẽ bắn ra 5 hỏa tiễn, gây thêm sát thương tỉ lệ với khoảng cách. Mỗi hướng có Hồi Chiêu riêng.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/fanthehammer_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "growth spurt",
+  "key": "growthspurt",
+  "tier": "A",
+  "rarity": "gold",
+  "categories": [
+   "tank"
+  ],
+  "tooltip_id": 1401,
+  "name": "Siêu Tăng Trưởng",
+  "description": "Nhận Phép Bổ Trợ Siêu Tăng Trưởng. Siêu Tăng Trưởng đột ngột tăng kích cỡ của bạn, Hất Tung kẻ địch ở gần và tăng Máu tối đa.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/growthspurt_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "upgrade death's dance",
+  "key": "upgradedeathsdance",
+  "tier": "A",
+  "rarity": "silver",
+  "categories": [
+   "amp",
+   "tank",
+   "support"
+  ],
+  "tooltip_id": 2157,
+  "name": "Nâng Cấp Vũ Điệu Tử Thần",
+  "description": "Nhận ?. ? sát thương gánh chịu sẽ được gây lên bạn theo thời gian. Hồi Máu nhiều hơn ngay khi tham gia hạ gục.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/upgradedeathdance_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "critical healing",
+  "key": "criticalhealing",
+  "tier": "A",
+  "rarity": "gold",
+  "categories": [
+   "crit",
+   "tank"
+  ],
+  "tooltip_id": 1118,
+  "name": "Hồi Máu Chí Mạng",
+  "description": "Lượng Hồi máu và Lá Chắn của bạn có thể Chí Mạng thêm 40%. Nhận 25% Tỉ Lệ Chí Mạng.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/criticalhealing_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "firefox",
+  "key": "firefox",
+  "tier": "A",
+  "rarity": "silver",
+  "categories": [
+   "ap",
+   "amp"
+  ],
+  "tooltip_id": 1308,
+  "name": "Lửa Hồ Ly",
+  "description": "Thi Triển Tự Động Nhận thêm Tốc Độ Di Chuyển và tạo ra 3 ngọn lửa xoay tròn quanh bạn, lửa sẽ tấn công kẻ địch gần nhất có thể nhìn thấy trong phạm vi và gây sát thương phép.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/firfox_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "transmute: chaos",
+  "key": "transmutechaos",
+  "tier": "A",
+  "rarity": "prismatic",
+  "categories": [
+   "gold"
+  ],
+  "tooltip_id": 1243,
+  "name": "Chuyển Đổi: Hỗn Loạn",
+  "description": "Nhận 2 Nâng Cấp ngẫu nhiên.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/transmutechaos_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "tripleshot",
+  "key": "tripleshot",
+  "tier": "A",
+  "rarity": "prismatic",
+  "categories": [
+   "mechanic"
+  ],
+  "tooltip_id": 2054,
+  "name": "Tam Kích",
+  "description": "? của bạn nhắm vào thêm 2 kẻ địch ở trước mặt.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_prismatic.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "stats on stats on stats!",
+  "key": "statsonstatsonstats",
+  "tier": "A",
+  "rarity": "prismatic",
+  "categories": [
+   "gold",
+   "mechanic"
+  ],
+  "tooltip_id": 1402,
+  "name": "Cơn Bão Chỉ Số!",
+  "description": "Nhận 4 Gói Trang Bị Chỉ Số, có xác suất cao hơn để nhận Gói Trang Bị Vàng và Kim Cương! Ở lần chọn Nâng Cấp kế tiếp, nhận thêm 1 lượt đổi với mỗi ô.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/statsonstatsonstats_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "twin fire",
+  "key": "twinfire",
+  "tier": "A",
+  "rarity": "silver",
+  "categories": [
+   "ad",
+   "ap",
+   "crit"
+  ],
+  "tooltip_id": 1415,
+  "name": "Ngọn Lửa Song Sinh",
+  "description": "Khi gây sát thương kỹ năng, bắn ra 1 + ? tên lửa, mỗi tên lửa gây ? sát thương phép. Nhận 25% Tỉ Lệ Chí Mạng.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/twinfire_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "kill secured",
+  "key": "killsecured",
+  "tier": "A",
+  "rarity": "silver",
+  "categories": [
+   "mechanic"
+  ],
+  "tooltip_id": 2026,
+  "name": "Tự Tay Hạ Gục",
+  "description": "Nhận thêm Tốc Độ Di Chuyển khi di chuyển về phía kẻ địch thấp Máu.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/killsecure_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "slap around",
+  "key": "slaparound",
+  "tier": "A",
+  "rarity": "silver",
+  "categories": [
+   "ad",
+   "ap"
+  ],
+  "tooltip_id": 1136,
+  "name": "Quăng Quật",
+  "description": "Nhận 10 Sức Mạnh Thích Ứng khi bạn Làm Bất Động hoặc Sa Lầy 1 kẻ địch. Mất đi 50% khi bị hạ gục.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/slaparound_large.png",
+  "tier_score": 76.0
+ },
+ {
+  "slug": "marksmage",
+  "key": "marksmage",
+  "tier": "B",
+  "rarity": "gold",
+  "categories": [
+   "ap",
+   "amp"
+  ],
+  "tooltip_id": 1129,
+  "name": "Xạ Thủ Ma Pháp",
+  "description": "Đòn đánh sẽ gây thêm sát thương vật lý bằng 75% Sức Mạnh Phép Thuật.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/marksmage_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "overextender",
+  "key": "overextender",
+  "tier": "B",
+  "rarity": "gold",
+  "categories": [
+   "amp",
+   "mechanic"
+  ],
+  "tooltip_id": 2119,
+  "name": "Rướn Quá Đà",
+  "description": "Biến Về để chui vào Súng Đại Bác của bạn. Nó có tầm bắn, tốc độ bay và sát thương tăng lên đáng kể.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/overextender_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "it's critical",
+  "key": "itscritical",
+  "tier": "B",
+  "rarity": "gold",
+  "categories": [
+   "crit"
+  ],
+  "tooltip_id": 1047,
+  "name": "Chí Mạng Đấy",
+  "description": "Nhận 50% Tỉ Lệ Chí Mạng.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/itscritical_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "soul eater",
+  "key": "souleater",
+  "tier": "B",
+  "rarity": "gold",
+  "categories": [
+   "tank"
+  ],
+  "tooltip_id": 1375,
+  "name": "Kẻ Nuốt Chửng Linh Hồn",
+  "description": "Làm Bất Động tướng địch sẽ tăng 20 Máu tối đa. Nếu được chọn làm Nâng Cấp thứ hai của bạn, bắt đầu với ? Máu.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/souleater_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "cruelty",
+  "key": "cruelty",
+  "tier": "B",
+  "rarity": "prismatic",
+  "categories": [
+   "amp"
+  ],
+  "tooltip_id": 1323,
+  "name": "Chùy Tàn Độc",
+  "description": "Khi Làm Bất Động hoặc Sa Lầy tướng, triệu hồi một sao chổi rơi xuống sau thoáng chốc, gây sát thương phép lên các kẻ địch ở gần.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/cruelty_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "magic missile",
+  "key": "magicmissile",
+  "tier": "B",
+  "rarity": "gold",
+  "categories": [
+   "ap",
+   "amp"
+  ],
+  "tooltip_id": 1133,
+  "name": "Tên Lửa Ma Pháp",
+  "description": "Gây sát thương Kỹ Năng sẽ bắn ra 3 hỏa tiễn, mỗi hỏa tiễn gây sát thương chuẩn theo phần trăm Máu tối đa dựa trên khoảng cách đã bay được.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/maps/particles/kiwi/magicmissile_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "endless decimation",
+  "key": "endlessdecimation",
+  "tier": "B",
+  "rarity": "gold",
+  "categories": [
+   "amp",
+   "mechanic"
+  ],
+  "tooltip_id": 2091,
+  "name": "Tàn Sát Bất Tận",
+  "description": "Khi trong giao tranh, Thi Triển Tự Động một cú vung rìu theo vòng tròn, gây sát thương vật lý. Kẻ địch ở rìa ngoài nhận thêm sát thương và hồi Máu cho bạn.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/endlessdecimate_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "get excited!",
+  "key": "getexcited",
+  "tier": "B",
+  "rarity": "gold",
+  "categories": [
+   "ad"
+  ],
+  "tooltip_id": 1322,
+  "name": "Hưng Phấn!",
+  "description": "Tăng Tốc Độ Di Chuyển và Tốc Độ Đánh trong 4 giây khi tham gia hạ gục.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/getexcited_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "courage of the colossus",
+  "key": "courageofthecolossus",
+  "tier": "B",
+  "rarity": "prismatic",
+  "categories": [
+   "tank"
+  ],
+  "tooltip_id": 1018,
+  "name": "Khổng Nhân Can Đảm",
+  "description": "Nhận ? Lá Chắn sau khi Làm Bất Động hoặc Sa Lầy một tướng địch.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/courageofthecolossus_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "earthwake",
+  "key": "earthwake",
+  "tier": "B",
+  "rarity": "prismatic",
+  "categories": [
+   "mechanic"
+  ],
+  "tooltip_id": 1027,
+  "name": "Chấn Động",
+  "description": "Kỹ năng lướt, nhảy hoặc dịch chuyển của bạn sẽ để lại một vệt phía sau, vệt này sẽ phát nổ sau 0.75 giây.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/earthwake_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "upgrade sword of blossoming dawn",
+  "key": "upgradeswordofblossomingdawn",
+  "tier": "B",
+  "rarity": "prismatic",
+  "categories": [
+   "ad",
+   "support"
+  ],
+  "tooltip_id": 1379,
+  "name": "Nâng Cấp Kiếm Bình Minh Nở Rộ",
+  "description": "Nhận thêm 100% Tốc Độ Đánh. Tăng hồi máu của Kiếm Bình Minh Nở Rộ lên thành 250% khi bạn tấn công tướng địch.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/upgrademikaelsblessing_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "empowered by the faithful",
+  "key": "empoweredbythefaithful",
+  "tier": "B",
+  "rarity": "prismatic",
+  "categories": [
+   "amp",
+   "support",
+   "mechanic"
+  ],
+  "tooltip_id": 2004,
+  "name": "Đức Tin Tiếp Sức",
+  "description": "Hồi Máu hoặc Tạo Lá Chắn cho đồng minh sẽ ban phước cho họ, khiến sát thương họ gây ra củng cố đức tin của bạn. Khi bạn có đủ đức tin, tung ra một sóng năng lượng gây sát thương phép và hành quyết những kẻ địch thấp máu.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/empoweredbythefaithful_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "master of duality",
+  "key": "masterofduality",
+  "tier": "B",
+  "rarity": "prismatic",
+  "categories": [
+   "ad",
+   "ap",
+   "amp"
+  ],
+  "tooltip_id": 1054,
+  "name": "Chúa Tể Tay Đôi",
+  "description": "Đòn đánh của bạn cho cộng dồn Sức Mạnh Phép Thuật và các Kỹ Năng gây sát thương lên kẻ địch cho Sức Mạnh Công Kích.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/masterofduality_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "dive bomber",
+  "key": "divebomber",
+  "tier": "B",
+  "rarity": "silver",
+  "categories": [
+   "amp"
+  ],
+  "tooltip_id": 1025,
+  "name": "Cảm Tử Quân",
+  "description": "Phát nổ khi bị hạ gục, gây sát thương chuẩn cực lớn.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/divebomber_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "blade waltz",
+  "key": "bladewaltz",
+  "tier": "B",
+  "rarity": "prismatic",
+  "categories": [
+   "amp"
+  ],
+  "tooltip_id": 1006,
+  "name": "Điệu Van Tử Thần",
+  "description": "Nhận Phép Bổ Trợ Điệu Van Tử Thần.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/bladewaltz_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "veil of warding",
+  "key": "veilofwarding",
+  "tier": "B",
+  "rarity": "silver",
+  "categories": [
+   "tank"
+  ],
+  "tooltip_id": 1034,
+  "name": "Vỏ Bọc Bảo Hộ",
+  "description": "Nhận 1 Khiên Chống Phép mỗi 30 giây để chặn Kỹ Năng tiếp theo của kẻ địch.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/poltergeist_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "ice cold",
+  "key": "icecold",
+  "tier": "B",
+  "rarity": "silver",
+  "categories": [
+   "mechanic"
+  ],
+  "tooltip_id": 1044,
+  "name": "Băng Lạnh",
+  "description": "Các hiệu ứng Làm Chậm của bạn giảm Tốc Độ Di Chuyển thêm 75.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/icecold_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "witchful thinking",
+  "key": "witchfulthinking",
+  "tier": "B",
+  "rarity": "silver",
+  "categories": [
+   "ap"
+  ],
+  "tooltip_id": 1097,
+  "name": "Tư Duy Ma Thuật",
+  "description": "Nhận ? Sức Mạnh Phép Thuật.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/witchfulthinking_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "ominous pact",
+  "key": "ominouspact",
+  "tier": "B",
+  "rarity": "prismatic",
+  "categories": [
+   "ap",
+   "amp",
+   "mechanic"
+  ],
+  "tooltip_id": 1332,
+  "name": "Khế Ước Quỷ Quyệt",
+  "description": "Nhận Sức Mạnh Phép Thuật, Tốc Độ Di Chuyển và Hút Máu Toàn Phần dựa trên Máu đã mất, đồng thời chịu sát thương mỗi khi thi triển.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/wisdomofages_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "firebrand",
+  "key": "firebrand",
+  "tier": "B",
+  "rarity": "gold",
+  "categories": [
+   "amp"
+  ],
+  "tooltip_id": 1036,
+  "name": "Hỏa Tinh",
+  "description": "Đòn Đánh đặt cộng dồn Thiêu Đốt Khi Đánh Trúng, gây sát thương theo thời gian.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/firebrand_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "adapt",
+  "key": "adapt",
+  "tier": "B",
+  "rarity": "silver",
+  "categories": [
+   "ap",
+   "amp",
+   "mechanic"
+  ],
+  "tooltip_id": 1205,
+  "name": "THÍCH ỨNG",
+  "description": "Chuyển hóa Sức Mạnh Công Kích Cộng Thêm thành Sức Mạnh Phép Thuật. Nhận 15% Sức Mạnh Phép Thuật.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/adapt_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "upgrade zhonya's",
+  "key": "upgradezhonyas",
+  "tier": "B",
+  "rarity": "silver",
+  "categories": [
+   "ap",
+   "cd",
+   "gold"
+  ],
+  "tooltip_id": 1318,
+  "name": "Nâng Cấp Zhonya",
+  "description": "Giảm Hồi Chiêu của Đồng Hồ Cát Zhonya thành 45 giây. Giờ bạn có thể di chuyển và tăng Tốc Độ Di Chuyển khi ở trong trạng thái ngưng đọng của Đồng Hồ Cát Zhonya, Giáp Tay Seeker hoặc Mũ Phù Thủy Wooglet. Nhận 250 Vàng.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/upgradezh_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "symphony of war",
+  "key": "symphonyofwar",
+  "tier": "B",
+  "rarity": "prismatic",
+  "categories": [
+   "amp"
+  ],
+  "tooltip_id": 1079,
+  "name": "Chiến Hùng Ca",
+  "description": "Nhận Ngọc Siêu Cấp Nhịp Độ Chết Người và Chinh Phục.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/symphonyofwar_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "porcupine",
+  "key": "porcupine",
+  "tier": "B",
+  "rarity": "gold",
+  "categories": [
+   "amp",
+   "tank"
+  ],
+  "tooltip_id": 2139,
+  "name": "Nhím",
+  "description": "Nhận sát thương từ tướng sẽ tích tụ một luồng kim nhọn bắn ra từ bạn, gây sát thương và làm chậm kẻ địch xung quanh.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/pincushion_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "mercy's strike",
+  "key": "mercysstrike",
+  "tier": "B",
+  "rarity": "gold",
+  "categories": [
+   "ad",
+   "amp"
+  ],
+  "tooltip_id": 2133,
+  "name": "Đòn Công Nhân Từ",
+  "description": "Sau khi hồi máu hoặc tạo lá chắn cho đồng minh của bạn bằng ?, các đòn đánh thường tiếp theo của bạn được tăng tầm đánh, tốc độ đánh và gây thêm sát thương phép theo Máu tối đa.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_gold.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "scoped weapons",
+  "key": "scopedweapons",
+  "tier": "B",
+  "rarity": "silver",
+  "categories": [
+   "mechanic"
+  ],
+  "tooltip_id": 1170,
+  "name": "Lắp Kính Nhắm",
+  "description": "Tăng ? Tầm Đánh.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/scopedweapons_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "double tap",
+  "key": "doubletap",
+  "tier": "B",
+  "rarity": "prismatic",
+  "categories": [
+   "ad",
+   "crit"
+  ],
+  "tooltip_id": 2010,
+  "name": "Bắn Một Được Hai",
+  "description": "Đòn Chí Mạng của bạn áp dụng hiệu ứng Đòn Đánh thêm một lần nữa. Nhận ? Tỉ Lệ Chí Mạng.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/dualwield_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "typhoon",
+  "key": "typhoon",
+  "tier": "B",
+  "rarity": "silver",
+  "categories": [
+   "ad"
+  ],
+  "tooltip_id": 1087,
+  "name": "Bão Tố",
+  "description": "Đòn Đánh của bạn bắn ra tên lửa vào thêm một mục tiêu khác, gây lượng sát thương ít hơn và kích hoạt các hiệu ứng Khi Đánh Trúng.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/typhoon_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "searing dawn",
+  "key": "searingdawn",
+  "tier": "B",
+  "rarity": "gold",
+  "categories": [
+   "amp"
+  ],
+  "tooltip_id": 1072,
+  "name": "Ban Mai Bỏng Cháy",
+  "description": "Kỹ Năng của bạn đánh dấu kẻ địch, khiến chúng chịu thêm sát thương phép từ Đòn Đánh hoặc Kỹ Năng tiếp theo của đồng đội.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/searingdawn_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "flashy",
+  "key": "flashy",
+  "tier": "B",
+  "rarity": "gold",
+  "categories": [
+   "mechanic"
+  ],
+  "tooltip_id": 1116,
+  "name": "Tốc Biến Liên Hoàn",
+  "description": "Tốc Biến của bạn có 3 lượt dùng. Sau 120 giây, nhận lại tất cả lượt dùng.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/flashy_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "jeweled gauntlet",
+  "key": "jeweledgauntlet",
+  "tier": "B",
+  "rarity": "prismatic",
+  "categories": [
+   "crit"
+  ],
+  "tooltip_id": 1048,
+  "name": "Găng Bảo Thạch",
+  "description": "Kỹ năng của bạn có thể Chí Mạng. Nhận ? Tỉ Lệ Chí Mạng.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/jeweledgauntlet_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "hextech soul",
+  "key": "hextechsoul",
+  "tier": "B",
+  "rarity": "silver",
+  "categories": [
+   "amp"
+  ],
+  "tooltip_id": 1416,
+  "name": "Linh Hồn Công Nghệ",
+  "description": "Định kỳ, Kỹ Năng gây sát thương hoặc Đòn Đánh của bạn sẽ phóng ra một luồng sấm sét, lan đến kẻ địch để gây sát thương và Làm Chậm.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/infernalsoul_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "ravenous bind",
+  "key": "ravenousbind",
+  "tier": "B",
+  "rarity": "gold",
+  "categories": [
+   "amp",
+   "tank"
+  ],
+  "tooltip_id": 2077,
+  "name": "Lòng Tham Trói Buộc",
+  "description": "Làm Bất Động hoặc Sa Lầy tướng địch bằng ? sẽ gây thêm sát thương và hồi máu cho bạn.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/upgradehubris_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "transmute: gold",
+  "key": "transmutegold",
+  "tier": "B",
+  "rarity": "silver",
+  "categories": [
+   "gold"
+  ],
+  "tooltip_id": 1237,
+  "name": "Chuyển Đổi: Vàng",
+  "description": "Nhận Nâng Cấp Vàng ngẫu nhiên.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/transmutegold_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "biggest snowball ever",
+  "key": "biggestsnowballever",
+  "tier": "B",
+  "rarity": "prismatic",
+  "categories": [
+   "amp",
+   "cd",
+   "mechanic"
+  ],
+  "tooltip_id": 1329,
+  "name": "Cầu Tuyết Trong Truyền Thuyết",
+  "description": "Nhận 100 Điểm Hồi Kỹ Năng cho Cầu Tuyết. Cầu tuyết của bạn sẽ RẤT TO và bay xuyên qua lính. Nó Làm Chậm, Hất Tung tướng và gây thêm sát thương. Nếu bạn không có Cầu Tuyết, nhận 1 Cầu Tuyết.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/biggestsnowballever_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "dropkick",
+  "key": "dropkick",
+  "tier": "B",
+  "rarity": "prismatic",
+  "categories": [
+   "amp",
+   "tank",
+   "mechanic"
+  ],
+  "tooltip_id": 2006,
+  "name": "Đá Bay",
+  "description": "Đòn Đánh và Kỹ Năng của bạn sẽ hành quyết tướng địch thấp Máu, Đẩy Lùi và gây ra một vụ nổ, đồng thời hồi máu cho bạn.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/dropkick_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "spell split",
+  "key": "spellsplit",
+  "tier": "B",
+  "rarity": "prismatic",
+  "categories": [
+   "ad",
+   "ap",
+   "mechanic"
+  ],
+  "tooltip_id": 2072,
+  "name": "Phân Chia Kỹ Năng",
+  "description": "Đường đạn từ ? của bạn tách thành hai khi trúng đích, khi đạt Tầm tối đa hoặc khi Tái Kích Hoạt.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_prismatic.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "pat on the back",
+  "key": "patontheback",
+  "tier": "B",
+  "rarity": "gold",
+  "categories": [
+   "tank"
+  ],
+  "tooltip_id": 2137,
+  "name": "Vỗ Vai Động Viên",
+  "description": "Đồng minh sẽ khích lệ khi bạn đi ngang qua, ban cho bạn Lá Chắn và Tốc Độ Di Chuyển.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/patontheback_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "it's go time",
+  "key": "itsgotime",
+  "tier": "B",
+  "rarity": "silver",
+  "categories": [
+   "mechanic"
+  ],
+  "tooltip_id": 2125,
+  "name": "Xuất Phát Thôi",
+  "description": "Kích hoạt ? sẽ cho bạn Tốc Độ Di Chuyển trong thời gian tác dụng.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_silver.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "purist - caster",
+  "key": "puristcaster",
+  "tier": "B",
+  "rarity": "silver",
+  "categories": [
+   "ad",
+   "ap",
+   "cd",
+   "mechanic"
+  ],
+  "tooltip_id": 2018,
+  "name": "Thuần Pháp - Thuật Sư",
+  "description": "Nhận phần trăm giảm thời gian hồi chiêu và chuyển đổi tất cả Tốc Độ Đánh của bạn thành Điểm Hồi Kỹ Năng.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/puristcaster_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "ultimate awakening",
+  "key": "ultimateawakening",
+  "tier": "B",
+  "rarity": "prismatic",
+  "categories": [
+   "cd"
+  ],
+  "tooltip_id": 1349,
+  "name": "Thức Tỉnh Tối Thượng",
+  "description": "Nhận 30 Điểm Hồi Chiêu Cuối. Sau khi bạn sử dụng Chiêu Cuối, làm mới những kỹ năng cơ bản của bạn và nhận 300 điểm hồi kỹ năng cơ bản trong 15 giây. (20 giây Hồi Chiêu)",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/zerohour_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "infernal soul",
+  "key": "infernalsoul",
+  "tier": "B",
+  "rarity": "silver",
+  "categories": [
+   "amp"
+  ],
+  "tooltip_id": 1046,
+  "name": "Linh Hồn Hỏa Ngục",
+  "description": "Bạn nhận Linh Hồn Rồng Lửa, gây thêm sát thương khi đánh trúng kẻ địch bằng Kỹ Năng hoặc Đòn Đánh.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/infernalsoul_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "skilled sniper",
+  "key": "skilledsniper",
+  "tier": "B",
+  "rarity": "gold",
+  "categories": [
+   "ad",
+   "ap",
+   "cd"
+  ],
+  "tooltip_id": 1113,
+  "name": "Xạ Thủ Kỳ Cựu",
+  "description": "Bắn Tỉa kẻ địch ở xa bằng một Kỹ Năng cơ bản sẽ hoàn trả 80% Hồi Chiêu. (65% đối với các Kỹ Năng kích hoạt theo chu kỳ).",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/skilledsniper_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "nature is healing",
+  "key": "natureishealing",
+  "tier": "B",
+  "rarity": "gold",
+  "categories": [
+   "support"
+  ],
+  "tooltip_id": 2043,
+  "name": "Thiên Nhiên Êm Dịu",
+  "description": "Bước vào Bụi Cỏ sẽ hồi lại một lượng lớn Máu.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/natureishealing_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "terror",
+  "key": "terror",
+  "tier": "B",
+  "rarity": "gold",
+  "categories": [
+   "mechanic"
+  ],
+  "tooltip_id": 2065,
+  "name": "Kinh Hoàng",
+  "description": "Mỗi khi bạn sử dụng ?, khiến kẻ địch xung quanh bạn Hoảng Sợ.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/desecrator_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "yowch, my coins!",
+  "key": "yowchmycoins",
+  "tier": "B",
+  "rarity": "gold",
+  "categories": [
+   "gold"
+  ],
+  "tooltip_id": 2089,
+  "name": "Ái da, Xu của tôi!",
+  "description": "Khi bị hạ gục, tướng địch sẽ làm rớt ra xu ở gần, bạn và đồng minh có thể nhặt xu. Mỗi xu có giá trị 15 vàng.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/youchmycoins_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "bread and cheese",
+  "key": "breadandcheese",
+  "tier": "B",
+  "rarity": "gold",
+  "categories": [
+   "cd"
+  ],
+  "tooltip_id": 1151,
+  "name": "Bánh Mỳ & Phô-mai",
+  "description": "? của bạn được tăng 100 Điểm Hồi Kỹ Năng.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_gold.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "stuck in here with me",
+  "key": "stuckinherewithme",
+  "tier": "B",
+  "rarity": "prismatic",
+  "categories": [
+   "amp",
+   "tank",
+   "support",
+   "mechanic"
+  ],
+  "tooltip_id": 1413,
+  "name": "Bơi Hết Vào Đây",
+  "description": "Khi sử dụng Chiêu Cuối, bạn Khiêu Khích kẻ địch ở gần và được giảm sát thương nhận vào. Nhận 30 Điểm Hồi Chiêu Cuối.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/stuckinherewithme_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "upgrade collector",
+  "key": "upgradecollector",
+  "tier": "B",
+  "rarity": "silver",
+  "categories": [
+   "amp",
+   "gold"
+  ],
+  "tooltip_id": 1320,
+  "name": "Nâng Cấp Súng Hải Tặc",
+  "description": "Kết liễu kẻ địch bằng Nội Tại của Súng Hải Tặc sẽ tăng ngưỡng kết liễu của nó, đồng thời thưởng thêm Vàng. Nhận 250 Vàng.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/upgradecollector_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "impassable",
+  "key": "impassable",
+  "tier": "B",
+  "rarity": "gold",
+  "categories": [
+   "tank"
+  ],
+  "tooltip_id": 1149,
+  "name": "Không Thể Vượt Qua",
+  "description": "Nhận Ngọc Siêu Cấp Dư Chấn và Nâng Cấp Băng Giá.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/impassable_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "prom queen",
+  "key": "promqueen",
+  "tier": "B",
+  "rarity": "prismatic",
+  "categories": [
+   "amp",
+   "tank",
+   "mechanic"
+  ],
+  "tooltip_id": 1421,
+  "name": "Hoa Khôi",
+  "description": "Mỗi 35 giây, Thi Triển Tự Động để trao cho bạn một vương miện lấp lánh. Khi nó đáp xuống, nhận Chiêu Cuối của Rakan, làm mê hoặc kẻ địch bạn chạm phải.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/promqueen_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "dashing",
+  "key": "dashing",
+  "tier": "B",
+  "rarity": "prismatic",
+  "categories": [
+   "cd"
+  ],
+  "tooltip_id": 1019,
+  "name": "Thân Thủ Lả Lướt",
+  "description": "Kỹ Năng lướt, nhảy hoặc dịch chuyển của bạn được nhận 175 Điểm Hồi Kỹ Năng.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/dashing_large.png",
+  "tier_score": 64.0
+ },
+ {
+  "slug": "stats!",
+  "key": "stats",
+  "tier": "C",
+  "rarity": "silver",
+  "categories": [
+   "gold",
+   "mechanic"
+  ],
+  "tooltip_id": 1404,
+  "name": "Tăng Chỉ Số!",
+  "description": "Nhận 2 Gói Trang Bị Chỉ Số!",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/stats_large.png",
+  "tier_score": 52.0
+ },
+ {
+  "slug": "mountain soul",
+  "key": "mountainsoul",
+  "tier": "C",
+  "rarity": "silver",
+  "categories": [
+   "tank"
+  ],
+  "tooltip_id": 1057,
+  "name": "Linh Hồn Rồng Đất",
+  "description": "Bạn nhận Linh Hồn Rồng Đất, nhận Lá Chắn sau khi rời khỏi giao tranh trong thoáng chốc.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/mountainsoul_large.png",
+  "tier_score": 52.0
+ },
+ {
+  "slug": "siphon",
+  "key": "siphon",
+  "tier": "C",
+  "rarity": "silver",
+  "categories": [
+   "tank"
+  ],
+  "tooltip_id": 2073,
+  "name": "Hút",
+  "description": "Gây sát thương lên tướng địch bằng ? sẽ hồi máu cho bạn.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_silver.png",
+  "tier_score": 52.0
+ },
+ {
+  "slug": "mighty shield",
+  "key": "mightyshield",
+  "tier": "C",
+  "rarity": "silver",
+  "categories": [
+   "ad",
+   "ap"
+  ],
+  "tooltip_id": 1314,
+  "name": "Lá Chắn Hùng Mạnh",
+  "description": "Nhận ? Sức Mạnh Thích Ứng trong 3 giây khi bạn nhận Lá Chắn (5 giây Hồi Chiêu).",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/mightyshield_large.png",
+  "tier_score": 52.0
+ },
+ {
+  "slug": "adaptive ward",
+  "key": "adaptiveward",
+  "tier": "C",
+  "rarity": "silver",
+  "categories": [
+   "tank"
+  ],
+  "tooltip_id": 2138,
+  "name": "Mắt Thích Ứng",
+  "description": "Tấn công tướng địch bằng ? cho bạn ? Giáp hoặc Kháng Phép dựa trên loại sát thương mà nó gây ra trong 6 giây. Hiệu ứng này có thể cộng dồn.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_silver.png",
+  "tier_score": 52.0
+ },
+ {
+  "slug": "bolstered",
+  "key": "bolstered",
+  "tier": "C",
+  "rarity": "silver",
+  "categories": [
+   "tank",
+   "support"
+  ],
+  "tooltip_id": 2144,
+  "name": "Tăng Cường",
+  "description": "Lá chắn nhận được từ ? mạnh hơn và tăng theo Máu đã mất của mục tiêu.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_silver.png",
+  "tier_score": 52.0
+ },
+ {
+  "slug": "rejuvenation",
+  "key": "rejuvenation",
+  "tier": "C",
+  "rarity": "gold",
+  "categories": [
+   "tank",
+   "support"
+  ],
+  "tooltip_id": 1067,
+  "name": "Hồi Sức",
+  "description": "Sử dụng ? sẽ hồi lại Máu.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/rabblerousing_large.png",
+  "tier_score": 52.0
+ },
+ {
+  "slug": "it's killing time",
+  "key": "itskillingtime",
+  "tier": "C",
+  "rarity": "gold",
+  "categories": [
+   "amp"
+  ],
+  "tooltip_id": 1211,
+  "name": "Đến Giờ Đồ Sát",
+  "description": "Sau khi thi triển Chiêu Cuối, đánh dấu tất cả kẻ địch và tích trữ lượng sát thương chúng phải chịu từ bạn. Khi hiệu ứng kết thúc, kích nổ sát thương đã tích trữ.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/itskillingtime_large.png",
+  "tier_score": 52.0
+ },
+ {
+  "slug": "our healing",
+  "key": "ourhealing",
+  "tier": "C",
+  "rarity": "gold",
+  "categories": [
+   "support"
+  ],
+  "tooltip_id": 2082,
+  "name": "Hồi Máu Của Chúng Ta",
+  "description": "Mỗi khi có ai đó hồi máu xung quanh bạn, bạn hồi lại 15% lượng máu họ được hồi. Nhận gấp đôi từ lượng máu hồi phục của Kẻ Địch.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/equillibrium_large.png",
+  "tier_score": 52.0
+ },
+ {
+  "slug": "archmage",
+  "key": "archmage",
+  "tier": "C",
+  "rarity": "prismatic",
+  "categories": [
+   "cd"
+  ],
+  "tooltip_id": 2087,
+  "name": "Đại Pháp Sư",
+  "description": "Khi thi triển kỹ năng, hoàn trả hồi chiêu của một kỹ năng ngẫu nhiên khác bằng 30% hồi chiêu của kỹ năng vừa tung ra.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/eureka_large.png",
+  "tier_score": 52.0
+ },
+ {
+  "slug": "trusty weapon",
+  "key": "trustyweapon",
+  "tier": "C",
+  "rarity": "silver",
+  "categories": [
+   "amp",
+   "mechanic"
+  ],
+  "tooltip_id": 2136,
+  "name": "Vũ Khí Tin Cậy",
+  "description": "Tấn công tướng địch bằng ? sẽ tạo một gắn kết Tình Bạn. ? tạm thời nhận thêm sát thương dựa trên cấp độ Tình Bạn của bạn.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_silver.png",
+  "tier_score": 52.0
+ },
+ {
+  "slug": "pursuit of power",
+  "key": "pursuitofpower",
+  "tier": "C",
+  "rarity": "gold",
+  "categories": [
+   "amp",
+   "mechanic"
+  ],
+  "tooltip_id": 2116,
+  "name": "Theo Đuổi Sức Mạnh",
+  "description": "NHIỆM VỤ: Đánh trúng tướng địch bằng ? ? lần. PHẦN THƯỞNG: Tăng vĩnh viễn sát thương của ?.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/marksmage_large.png",
+  "tier_score": 52.0
+ },
+ {
+  "slug": "titan's resolve",
+  "key": "titansresolve",
+  "tier": "C",
+  "rarity": "prismatic",
+  "categories": [
+   "amp",
+   "tank"
+  ],
+  "tooltip_id": 1001,
+  "name": "Quyền Năng Khổng Lồ",
+  "description": "Nhận cộng dồn khi nhận hoặc gây sát thương. Mỗi 10 cộng dồn, nhận Sức Mạnh Thích Ứng, Giáp, Kháng Phép, Kích Cỡ và Kháng Hiệu Ứng.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/iamthejuggernaut_large.png",
+  "tier_score": 52.0
+ },
+ {
+  "slug": "thread the needle",
+  "key": "threadtheneedle",
+  "tier": "C",
+  "rarity": "gold",
+  "categories": [
+   "ad",
+   "ap"
+  ],
+  "tooltip_id": 1084,
+  "name": "Xe Chỉ Luồn Kim",
+  "description": "Nhận thêm 18% Xuyên Giáp và Xuyên Kháng Phép.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/threadtheneedle_large.png",
+  "tier_score": 52.0
+ },
+ {
+  "slug": "bread and jam",
+  "key": "breadandjam",
+  "tier": "C",
+  "rarity": "gold",
+  "categories": [
+   "cd"
+  ],
+  "tooltip_id": 1150,
+  "name": "Bánh Mỳ & Mứt",
+  "description": "? của bạn được tăng 100 Điểm Hồi Kỹ Năng.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_gold.png",
+  "tier_score": 52.0
+ },
+ {
+  "slug": "bread and butter",
+  "key": "breadandbutter",
+  "tier": "C",
+  "rarity": "gold",
+  "categories": [
+   "cd"
+  ],
+  "tooltip_id": 1103,
+  "name": "Bánh Mì & Bơ",
+  "description": "? của bạn được tăng 100 Điểm Hồi Kỹ Năng.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_gold.png",
+  "tier_score": 52.0
+ },
+ {
+  "slug": "flashbang",
+  "key": "flashbang",
+  "tier": "C",
+  "rarity": "silver",
+  "categories": [
+   "amp"
+  ],
+  "tooltip_id": 1187,
+  "name": "Lựu Đạn Mù",
+  "description": "Tốc Biến của bạn sẽ kích hoạt một vụ nổ gây sát thương và Làm Chậm (đặt lại khi tử trận).",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/flashbang_large.png",
+  "tier_score": 52.0
+ },
+ {
+  "slug": "triggered inferno",
+  "key": "triggeredinferno",
+  "tier": "C",
+  "rarity": "prismatic",
+  "categories": [
+   "amp"
+  ],
+  "tooltip_id": 2005,
+  "name": "Kích Hoạt Hỏa Lực",
+  "description": "Nhận Thích Thể Hiện. Khi bạn đạt Phong Cách S, tự động sử dụng Hỏa Ngục Liên Xạ.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/madscientist_large.png",
+  "tier_score": 52.0
+ },
+ {
+  "slug": "pursuit of haste",
+  "key": "pursuitofhaste",
+  "tier": "C",
+  "rarity": "gold",
+  "categories": [
+   "cd",
+   "mechanic"
+  ],
+  "tooltip_id": 2100,
+  "name": "Theo Đuổi Tốc Độ",
+  "description": "NHIỆM VỤ: Đánh trúng tướng địch bằng ? ? lần. PHẦN THƯỞNG: Nhận Điểm Hồi Kỹ Năng cho ? với mỗi Cấp Nhiệm Vụ, tối đa ?.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_gold.png",
+  "tier_score": 52.0
+ },
+ {
+  "slug": "apex inventor",
+  "key": "apexinventor",
+  "tier": "C",
+  "rarity": "gold",
+  "categories": [
+   "cd"
+  ],
+  "tooltip_id": 1002,
+  "name": "Nhà Phát Minh Đỉnh Chóp",
+  "description": "Nhận 100 Điểm Hồi Trang Bị (tương đương với 50% GHC Trang Bị). Điểm Hồi Trang Bị giảm hồi chiêu cho tất cả các Kỹ Năng của Trang Bị.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/apexinventor_large.png",
+  "tier_score": 52.0
+ },
+ {
+  "slug": "squishy slappy grab",
+  "key": "squishyslappygrab",
+  "tier": "C",
+  "rarity": "prismatic",
+  "categories": [
+   "mechanic"
+  ],
+  "tooltip_id": 2115,
+  "name": "Đôi Tay Dẻo Dính",
+  "description": "Thỉnh thoảng phóng ra những bàn tay mềm mại, đập bôm bốp về phía tất cả tướng địch xung quanh, trói chặt chúng lại. Đòn đánh tiếp theo của bạn sẽ kéo tất cả kẻ địch bị trói vào.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/squishyslappygrab_large.png",
+  "tier_score": 52.0
+ },
+ {
+  "slug": "fey magic",
+  "key": "feymagic",
+  "tier": "C",
+  "rarity": "prismatic",
+  "categories": [
+   "mechanic"
+  ],
+  "tooltip_id": 1194,
+  "name": "Ma Pháp Mê Hoặc",
+  "description": "Gây sát thương bằng Chiêu Cuối sẽ Biến Hóa kẻ địch trong vài giây.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/feymagic_large.png",
+  "tier_score": 52.0
+ },
+ {
+  "slug": "shark tempest",
+  "key": "sharktempest",
+  "tier": "C",
+  "rarity": "gold",
+  "categories": [
+   "mechanic"
+  ],
+  "tooltip_id": 2034,
+  "name": "Bão Cá Mập",
+  "description": "Cá Mập lượn quanh Cầu Tuyết của bạn, làm chậm và gây sát thương lên kẻ địch ở gần. Khi Cầu Tuyết của bạn trúng Tướng, chúng sẽ bị mắc kẹt trong một cơn bão cá mập!",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/sharktempest_large.png",
+  "tier_score": 52.0
+ },
+ {
+  "slug": "ultimate revolution",
+  "key": "ultimaterevolution",
+  "tier": "C",
+  "rarity": "prismatic",
+  "categories": [
+   "cd"
+  ],
+  "tooltip_id": 1088,
+  "name": "Tái Tạo Tuyệt Chiêu",
+  "description": "Hồi lại Chiêu Cuối của bạn sau khi thi triển Chiêu Cuối (75 giây Hồi Chiêu hoặc hồi lại khi hi sinh)",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/ultimaterevolution_large.png",
+  "tier_score": 52.0
+ },
+ {
+  "slug": "nightstalking",
+  "key": "nightstalking",
+  "tier": "C",
+  "rarity": "gold",
+  "categories": [
+   "mechanic"
+  ],
+  "tooltip_id": 1326,
+  "name": "Săn Đêm",
+  "description": "Tham gia hạ gục tướng địch trong vòng 3 giây sau khi gây sát thương lên tướng đó sẽ tăng Tốc Độ Di Chuyển của bạn và khiến bạn tàng hình.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/nightstalking_large.png",
+  "tier_score": 52.0
+ },
+ {
+  "slug": "can't touch this",
+  "key": "canttouchthis",
+  "tier": "C",
+  "rarity": "prismatic",
+  "categories": [
+   "tank"
+  ],
+  "tooltip_id": 1011,
+  "name": "Sao Mà Chạm Được",
+  "description": "Sử dụng Chiêu Cuối sẽ khiến bạn trở nên Bất Tử trong một khoảng thời gian ngắn.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/canttouchthis_large.png",
+  "tier_score": 52.0
+ },
+ {
+  "slug": "spiritual purification",
+  "key": "spiritualpurification",
+  "tier": "C",
+  "rarity": "gold",
+  "categories": [
+   "amp"
+  ],
+  "tooltip_id": 1345,
+  "name": "Thanh Tẩy Linh Hồn",
+  "description": "Khi tham gia hạ gục tướng, tạo ra một vụ nổ làm chậm tất cả kẻ địch gần bên đi 60%, và gây sát thương theo Máu hiện tại của chúng.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/spiritualpurification_large.png",
+  "tier_score": 52.0
+ },
+ {
+  "slug": "divine intervention",
+  "key": "divineintervention",
+  "tier": "C",
+  "rarity": "gold",
+  "categories": [
+   "amp",
+   "tank",
+   "mechanic"
+  ],
+  "tooltip_id": 1301,
+  "name": "Thần Linh Ban Phước",
+  "description": "Cứ mỗi 35 giây, Thi Triển Tự Động một ngôi sao hộ mệnh. Khi nó đáp xuống, bạn và các đồng đội ở gần trở nên Bất Tử trong vài giây.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/slowactingpainkillers_large.png",
+  "tier_score": 52.0
+ },
+ {
+  "slug": "poltergeist",
+  "key": "poltergeist",
+  "tier": "C",
+  "rarity": "silver",
+  "categories": [
+   "tank"
+  ],
+  "tooltip_id": 1347,
+  "name": "Yêu Tinh",
+  "description": "Nhận Phép Bổ Trợ Yêu Tinh. Yêu Tinh kích hoạt đồng thời cả Lá Chắn và Tốc Hành.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/poltergeist_large.png",
+  "tier_score": 52.0
+ },
+ {
+  "slug": "crit 'n cast",
+  "key": "critncast",
+  "tier": "C",
+  "rarity": "silver",
+  "categories": [
+   "crit",
+   "cd"
+  ],
+  "tooltip_id": 2024,
+  "name": "Thi Triển & Chí Mạng",
+  "description": "Nhận Điểm Hồi Kỹ Năng bằng 40% Tỉ Lệ Chí Mạng của bạn.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/critncast_large.png",
+  "tier_score": 52.0
+ },
+ {
+  "slug": "surge field",
+  "key": "surgefield",
+  "tier": "C",
+  "rarity": "prismatic",
+  "categories": [
+   "amp",
+   "cd"
+  ],
+  "tooltip_id": 2134,
+  "name": "Trường Năng Lượng",
+  "description": "Khi dùng Chiêu Cuối, tạo ra một Vùng giúp tăng Điểm Hồi Kỹ Năng và Tốc Độ Di Chuyển. Khi đứng bên trong, nó sẽ bắn ra các đường đạn gây 20% sát thương của bạn.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/surgefield_large.png",
+  "tier_score": 52.0
+ },
+ {
+  "slug": "rite of ascension",
+  "key": "riteofascension",
+  "tier": "C",
+  "rarity": "prismatic",
+  "categories": [
+   "tank",
+   "mechanic"
+  ],
+  "tooltip_id": 2099,
+  "name": "Nghi Lễ Thăng Hoa",
+  "description": "Khi bị hạ gục, tướng địch sẽ để lại Tinh Hoa của chúng. Tấn công Tinh Hoa sẽ tăng tốc độ di chuyển và làm mới thời gian hồi chiêu của các kỹ năng cơ bản.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/glasscannon_large.png",
+  "tier_score": 52.0
+ },
+ {
+  "slug": "pinball",
+  "key": "pinball",
+  "tier": "C",
+  "rarity": "gold",
+  "categories": [
+   "amp",
+   "cd",
+   "mechanic"
+  ],
+  "tooltip_id": 1358,
+  "name": "Bi Lăn",
+  "description": "Cầu Tuyết của bạn được tăng Điểm Hồi Kỹ Năng và gây thêm Sát Thương Chuẩn. Khi Cầu Tuyết nảy khỏi tường, nó tăng kích cỡ và sát thương, đồng thời được giảm Hồi Chiêu.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/pinballsnowball_large.png",
+  "tier_score": 52.0
+ },
+ {
+  "slug": "overloaded",
+  "key": "overloaded",
+  "tier": "C",
+  "rarity": "prismatic",
+  "categories": [
+   "cd",
+   "mechanic"
+  ],
+  "tooltip_id": 2123,
+  "name": "Quá Tải Sát Thương",
+  "description": "Sử dụng một Kỹ Năng khác sẽ đặt lại thời gian hồi chiêu của ?.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_prismatic.png",
+  "tier_score": 52.0
+ },
+ {
+  "slug": "pin cushion",
+  "key": "pincushion",
+  "tier": "C",
+  "rarity": "prismatic",
+  "categories": [
+   "ad",
+   "amp"
+  ],
+  "tooltip_id": 2135,
+  "name": "Gối Cắm Kim",
+  "description": "Các đòn đánh trong thời gian ? sẽ đóng Đinh vào mục tiêu của bạn. Đinh sẽ tích lũy sát thương, hành quyết và tăng Tốc Độ Di Chuyển khi hết hiệu lực.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/symphonyofwar_large.png",
+  "tier_score": 52.0
+ },
+ {
+  "slug": "multishot",
+  "key": "multishot",
+  "tier": "C",
+  "rarity": "prismatic",
+  "categories": [
+   "amp",
+   "mechanic"
+  ],
+  "tooltip_id": 2055,
+  "name": "Bắn Liên Hoàn",
+  "description": "NHIỆM VỤ: Đánh trúng Tướng địch bằng ? ? lần. PHẦN THƯỞNG: Bắn thêm đường đạn với mỗi Cấp Nhiệm Vụ.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_prismatic.png",
+  "tier_score": 52.0
+ },
+ {
+  "slug": "flash 2",
+  "key": "flash2",
+  "tier": "D",
+  "rarity": "silver",
+  "categories": [
+   "ap",
+   "cd",
+   "mechanic"
+  ],
+  "tooltip_id": 1348,
+  "name": "Tốc Biến 2",
+  "description": "Nhận Phép Bổ Trợ Tốc Biến thứ hai và 70 Điểm Hồi Phép Bổ Trợ.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/flash2_large.png",
+  "tier_score": 40.0
+ },
+ {
+  "slug": "upgrade sundered sky",
+  "key": "upgradesunderedsky",
+  "tier": "D",
+  "rarity": "gold",
+  "categories": [
+   "ap",
+   "tank",
+   "cd",
+   "gold"
+  ],
+  "tooltip_id": 2143,
+  "name": "Nâng Cấp Giáo Thiên Ly",
+  "description": "Giảm hồi chiêu trên mỗi mục tiêu của Giáo Thiên Ly xuống còn ? giây và hồi máu cho bạn bằng ? lượng máu đã mất. Nhận ? Vàng.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/upgradeie_large.png",
+  "tier_score": 40.0
+ },
+ {
+  "slug": "shrink ray",
+  "key": "shrinkray",
+  "tier": "D",
+  "rarity": "gold",
+  "categories": [
+   "amp"
+  ],
+  "tooltip_id": 1074,
+  "name": "Tia Thu Nhỏ",
+  "description": "Đòn Đánh của bạn giảm sát thương và kích thước của mục tiêu đi 15% Khi Đánh Trúng.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/shrinkray_large.png",
+  "tier_score": 40.0
+ },
+ {
+  "slug": "quickstep",
+  "key": "quickstep",
+  "tier": "D",
+  "rarity": "gold",
+  "categories": [
+   "mechanic"
+  ],
+  "tooltip_id": 2064,
+  "name": "Bước Chân Nhanh Nhẹn",
+  "description": "Khi bạn sử dụng ?, lướt về phía con trỏ của bạn.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_gold.png",
+  "tier_score": 40.0
+ },
+ {
+  "slug": "ultimate unstoppable",
+  "key": "ultimateunstoppable",
+  "tier": "D",
+  "rarity": "silver",
+  "categories": [
+   "tank"
+  ],
+  "tooltip_id": 1112,
+  "name": "Chiêu Cuối Không Thể Cản Phá",
+  "description": "Sau khi dùng Chiêu Cuối, bạn được miễn nhiễm khống chế trong 3 giây. (8 giây hồi chiêu).",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/ultimateunstoppable_large.png",
+  "tier_score": 40.0
+ },
+ {
+  "slug": "chain reaction",
+  "key": "chainreaction",
+  "tier": "D",
+  "rarity": "gold",
+  "categories": [
+   "amp",
+   "mechanic"
+  ],
+  "tooltip_id": 2078,
+  "name": "Phản Ứng Dây Chuyền",
+  "description": "Nếu một mục tiêu bị Đẩy Lùi bởi ? va vào một tướng khác, chúng sẽ bị Hất Tung và chịu sát thương. Khi va chạm với địa hình, thời gian Hất Tung sẽ được kéo dài và chúng phải chịu thêm sát thương.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/genericabilityaugmenticon_gold.png",
+  "tier_score": 40.0
+ },
+ {
+  "slug": "snowday",
+  "key": "snowday",
+  "tier": "D",
+  "rarity": "silver",
+  "categories": [
+   "mechanic"
+  ],
+  "tooltip_id": 2088,
+  "name": "Ngày Tuyết Rơi",
+  "description": "Nhận 100 Điểm Hồi Kỹ Năng cho Cầu Tuyết của bạn. Nó gây thêm sát thương phép khi trúng kẻ địch. Nếu bạn chưa có Cầu Tuyết, nhận phép bổ trợ Cầu Tuyết.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/snowday_large.png",
+  "tier_score": 40.0
+ },
+ {
+  "slug": "juiced",
+  "key": "juiced",
+  "tier": "D",
+  "rarity": "silver",
+  "categories": [
+   "ad",
+   "amp"
+  ],
+  "tooltip_id": 2016,
+  "name": "Tăng Lực",
+  "description": "Đòn Đánh Trúng tiêu hao ? Năng Lượng để gây ? sát thương phép, sát thương này có thể Chí Mạng.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/juiced_large.png",
+  "tier_score": 40.0
+ },
+ {
+  "slug": "hide on bush",
+  "key": "hideonbush",
+  "tier": "D",
+  "rarity": "gold",
+  "categories": [
+   "amp"
+  ],
+  "tooltip_id": 2042,
+  "name": "Hide on Bush",
+  "description": "Sau khi vào Bụi Cỏ, gây thêm 20% sát thương trong 2 giây. Ở lại trong Bụi Cỏ để làm mới hiệu ứng.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/brushpower_large.png",
+  "tier_score": 40.0
+ },
+ {
+  "slug": "pandora's box",
+  "key": "pandorasbox",
+  "tier": "D",
+  "rarity": "prismatic",
+  "categories": [
+   "mechanic"
+  ],
+  "tooltip_id": 12317,
+  "name": "Hộp Pandora",
+  "description": "Chuyển hóa tất cả các nâng cấp của bạn thành Nâng Cấp Kim Cương ngẫu nhiên.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/cherry/augments/icons/pandoras_box_large.png",
+  "tier_score": 40.0
+ },
+ {
+  "slug": "holy snowball",
+  "key": "holysnowball",
+  "tier": "D",
+  "rarity": "prismatic",
+  "categories": [
+   "tank",
+   "cd",
+   "mechanic"
+  ],
+  "tooltip_id": 1392,
+  "name": "Siêu Cầu Tuyết",
+  "description": "Nhận 100 Điểm Hồi Kỹ Năng cho Cầu Tuyết. Bạn trở nên Bất Tử trong thoáng chốc khi lướt đi bằng Cầu Tuyết. Nếu bạn chưa có Cầu Tuyết, nhận phép bổ trợ Cầu Tuyết.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/goldensnowball_large.png",
+  "tier_score": 40.0
+ },
+ {
+  "slug": "snowblast",
+  "key": "snowblast",
+  "tier": "D",
+  "rarity": "gold",
+  "categories": [
+   "amp",
+   "mechanic"
+  ],
+  "tooltip_id": 2080,
+  "name": "Vụ Nổ Tuyết",
+  "description": "Tái kích hoạt Cầu Tuyết sẽ gây thêm sát thương, Hất Tung mục tiêu và Đẩy Lùi kẻ địch xung quanh.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/snowbomb_large.png",
+  "tier_score": 40.0
+ },
+ {
+  "slug": "ult bot",
+  "key": "ultbot",
+  "tier": "D",
+  "rarity": "prismatic",
+  "categories": [
+   "cd"
+  ],
+  "tooltip_id": 2118,
+  "name": "Bot Chiêu Cuối",
+  "description": "Điểm Hồi Kỹ Năng của bạn chỉ áp dụng cho Chiêu Cuối, nhưng hiệu quả tăng thêm 50%. Nhận 100 Điểm Hồi Kỹ Năng.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/skipthebasic_large.png",
+  "tier_score": 40.0
+ },
+ {
+  "slug": "spin me right round",
+  "key": "spinmerightround",
+  "tier": "D",
+  "rarity": "silver",
+  "categories": [
+   "amp",
+   "mechanic"
+  ],
+  "tooltip_id": 1386,
+  "name": "Đi Đu Đưa Đi",
+  "description": "Thay thế một Phép Bổ Trợ bằng Đu Kiểu Anh Hùng. Đu Kiểu Anh Hùng bắn ra một chiếc móc ghim vào địa hình, sau đó bạn có thể Tái Kích Hoạt để đu xung quanh vị trí đó. Khi đang đu, tự động Tấn Công kẻ địch gần nhất. Va vào tướng địch hoặc Tái Kích Hoạt sẽ kết thúc sớm cú đu.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/youspinmerightround_large.png",
+  "tier_score": 40.0
+ },
+ {
+  "slug": "poro stampede",
+  "key": "porostampede",
+  "tier": "D",
+  "rarity": "prismatic",
+  "categories": [
+   "amp",
+   "mechanic"
+  ],
+  "tooltip_id": 2046,
+  "name": "Poro Càn Quét",
+  "description": "NHIỆM VỤ: Thu Thập Bánh Quy Poro và cho ? Poro ăn. PHẦN THƯỞNG: Nhận Phép Bổ Trợ Poro Đột Kích, cho phép bạn phóng những đợt Poro về phía đội địch. Các đợt tấn công bổ sung sẽ được mở khóa theo từng Cấp Nhiệm Vụ. \"Ô hô! Xem chúng dễ thương làm sao kìa!\" - Người Chăn Poro",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/questporocharge_large.png",
+  "tier_score": 40.0
+ },
+ {
+  "slug": "glass cannon",
+  "key": "glasscannon",
+  "tier": "D",
+  "rarity": "prismatic",
+  "categories": [
+   "amp"
+  ],
+  "tooltip_id": 1325,
+  "name": "Lấy Công Bù Thủ",
+  "description": "Giảm Máu Tối Đa đi 30%. Gây thêm ? sát thương dưới dạng sát thương chuẩn.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/glasscannon_large.png",
+  "tier_score": 40.0
+ },
+ {
+  "slug": "dimension shift",
+  "key": "dimensionshift",
+  "tier": "D",
+  "rarity": "prismatic",
+  "categories": [
+   "support",
+   "mechanic"
+  ],
+  "tooltip_id": 2063,
+  "name": "Dịch Chuyển Chiều Không Gian",
+  "description": "Nhận Phép Bổ Trợ Khi Bóng Tối Kéo Đến. Tạo ra một khu vực dịch chuyển mọi đơn vị bên trong nó đến một chiều không gian khác.",
+  "icon": "https://playaram.gg/cdn-cgi/image/format=auto,width=96,fit=scale-down/media/game-asset/assets/ux/kiwi/augments/icons/whenthedarknesscomes_large.png",
+  "tier_score": 40.0
+ }
+]
